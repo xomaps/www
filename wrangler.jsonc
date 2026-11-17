@@ -1,0 +1,11 @@
+{
+  // Cloudflare Workers 配置：部署官网静态资源（Hugo 构建产物 public/）
+  // 部署命令：hugo --minify --gc --source <www目录> && npx wrangler deploy
+  "name": "www",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./public",
+    // uglyURLs 模式下路径即 .html 文件，未匹配路径直接 404
+    "not_found_handling": "none"
+  }
+}

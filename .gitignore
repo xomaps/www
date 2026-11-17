@@ -1,0 +1,16 @@
+# Hugo
+public/
+resources/_gen/
+.hugo_build.lock
+hugo_stats.json
+
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+
+# 本地 agent 记忆
+.workbuddy/
+wechat/
