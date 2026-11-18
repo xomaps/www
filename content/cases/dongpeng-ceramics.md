@@ -1,7 +1,7 @@
 ---
-title: "建材制造企业智能化升级，传统产业 AI 转型落地案例 - 信朴"
+title: "建材制造企业智能化升级，传统产业 AI 转型落地案例 - 信朴科技"
 description: "以AI转型培训与AI提效闭环切入，150+人完成AI启蒙，从管理层战略到一线工具，帮传统建材企业完成AI意识与能力系统性建构，建材行业AI转型标杆案例。"
-keywords: "AI落地,企业AI,AI转型,AI培训,东鹏陶瓷AI,建材企业AI,传统企业AI转型,信朴"
+keywords: "AI落地,企业AI,AI转型,AI培训,东鹏陶瓷AI,建材企业AI,传统企业AI转型,信朴科技"
 nav: "cases"
 date: 2026-11-18
 draft: false
@@ -377,7 +377,7 @@ background-size:48px 48px;pointer-events:none;
 <span class="ind">建材 · 品牌制造</span>
 </div>
 <h1 class="reveal reveal-d1">传统建材的 AI 启蒙：从认知到上手的组织转身</h1>
-<p class="lead reveal reveal-d2">国内知名陶瓷建材企业 × 信朴：以诊断式定制训练营 + AI 提效闭环切入，从管理层战略到一线工具，帮一家传统建材企业完成 AI 意识与能力的系统性建构。</p>
+<p class="lead reveal reveal-d2">国内知名陶瓷建材企业 × 信朴科技：以诊断式定制训练营 + AI 提效闭环切入，从管理层战略到一线工具，帮一家传统建材企业完成 AI 意识与能力的系统性建构。</p>
 <div class="case-meta reveal reveal-d3">
 <span class="item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>2026 年 6 月发布</span>
 <span class="divider"></span>
@@ -464,7 +464,7 @@ background-size:48px 48px;pointer-events:none;
 <h2>解决方案：诊断 · 学 · 提效 · 咨询闭环</h2>
 </div>
 </div>
-<p>信朴以「诊断式定制训练营 + AI 提效闭环」切入，帮传统建材企业从认知到上手完成转身：</p>
+<p>信朴科技以「诊断式定制训练营 + AI 提效闭环」切入，帮传统建材企业从认知到上手完成转身：</p>
 <div class="sol-grid">
 <div class="sol">
 <div class="step"><span class="zh">诊</span><span class="tag">Diagnose</span></div>
@@ -540,7 +540,7 @@ background-size:48px 48px;pointer-events:none;
 <p>更重要的是组织能力的变化——业务团队开始<strong>主动</strong>提出新的 AI 场景需求，AI 从「神秘的概念」变成了「看得懂、用得上的生产方式」。</p>
 <div class="case-quote">
 <div class="mark">“</div>
-<p>信朴最难得的是不急着卖工具，而是先帮我们把家底摸清、把团队教会。现在我们的同事是真的敢用 AI 了，这是过去不敢想的。</p>
+<p>信朴科技最难得的是不急着卖工具，而是先帮我们把家底摸清、把团队教会。现在我们的同事是真的敢用 AI 了，这是过去不敢想的。</p>
 <div class="src"><strong>国内知名陶瓷建材企业 · 数字化相关负责人</strong></div>
 </div>
 </div>
@@ -568,7 +568,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="side-card side-cta reveal reveal-d3">
 <h4>想要同样的成果？</h4>
-<p>预约一次免费的场景诊断，让信朴 FDE 团队帮你找出团队里最适合先落地的 AI 场景。</p>
+<p>预约一次免费的场景诊断，让信朴科技 FDE 团队帮你找出团队里最适合先落地的 AI 场景。</p>
 <a href="tel:18926108189" class="btn btn-p">预约诊断 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
 </div>
 </aside>

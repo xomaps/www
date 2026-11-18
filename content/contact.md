@@ -1,7 +1,7 @@
 ---
-title: "联系信朴 | 企业AI落地与培训咨询 - 信朴"
-description: "系信朴：商务咨询冯小姐18926108189，地址广州市天河区科韵路16号信息港A栋1510。无论是一次AI培训、一个Agent定制试点，还是完整的企业AI落地规划，腾讯云殿堂级服务商为您提供合适的起点。"
-keywords: "企业AI,AI落地,AI培训,Agent定制,腾讯云,信朴,广州AI公司,企业AI咨询"
+title: "联系信朴科技 | 企业AI落地与培训咨询 - 信朴科技"
+description: "系信朴科技：商务咨询冯小姐18926108189，地址广州市天河区科韵路16号信息港A栋1510。无论是一次AI培训、一个Agent定制试点，还是完整的企业AI落地规划，腾讯云殿堂级服务商为您提供合适的起点。"
+keywords: "企业AI,AI落地,AI培训,Agent定制,腾讯云,信朴科技,广州AI公司,企业AI咨询"
 nav: "contact"
 date: 2026-11-18
 draft: false
@@ -342,7 +342,7 @@ section,.contact-card,.dir-card,.promise-card,.faq,.step,.addr-card,.map-card{op
 <span class="line1">开启您的</span>
 <span class="line2">企业 AI 建设之旅</span>
 </h1>
-<p class="sub">无论是一次培训、一个 Agent 试点，还是完整的企业 AI 建设规划，信朴都可以为您提供合适的起点。培训、WorkBuddy、模型用量、FDE、Agent 和咨询服务均可独立开展，也可组合交付。</p>
+<p class="sub">无论是一次培训、一个 Agent 试点，还是完整的企业 AI 建设规划，信朴科技都可以为您提供合适的起点。培训、WorkBuddy、模型用量、FDE、Agent 和咨询服务均可独立开展，也可组合交付。</p>
 <div class="hero-cta">
 <a href="tel:18926108189" class="hero-phone">
 <span class="ph-ico">
@@ -363,8 +363,8 @@ section,.contact-card,.dir-card,.promise-card,.faq,.step,.addr-card,.map-card{op
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">CONTACT</div>
-<h2 class="sec-title">多种方式，<span class="em">随时联系信朴</span></h2>
-<p class="sec-desc">电话、微信、邮件、留言——选择您最方便的方式，信朴商务团队会在第一时间响应。</p>
+<h2 class="sec-title">多种方式，<span class="em">随时联系信朴科技</span></h2>
+<p class="sec-desc">电话、微信、邮件、留言——选择您最方便的方式，信朴科技商务团队会在第一时间响应。</p>
 </div>
 
 <div class="contact-grid">
@@ -425,7 +425,7 @@ section,.contact-card,.dir-card,.promise-card,.faq,.step,.addr-card,.map-card{op
 <div class="sec-head">
 <div class="sec-eyebrow">GET IN TOUCH</div>
 <h2 class="sec-title">告诉我们您的需求，<span class="em">为您匹配方案</span></h2>
-<p class="sec-desc">填写下方表单，说明企业现状与 AI 落地诉求，信朴商务团队会在 1 个工作日内与您联系。</p>
+<p class="sec-desc">填写下方表单，说明企业现状与 AI 落地诉求，信朴科技商务团队会在 1 个工作日内与您联系。</p>
 </div>
 
 <div class="connect">
@@ -519,7 +519,7 @@ section,.contact-card,.dir-card,.promise-card,.faq,.step,.addr-card,.map-card{op
 </div>
 
 <button type="submit" class="btn btn-primary btn-block btn-lg">提交留言</button>
-<p class="form-note">提交即表示您同意信朴与您联系。我们承诺仅用于商务沟通，不会向第三方泄露您的信息。如需即时响应，请直接拨打 <a href="tel:18926108189">18926108189</a>。</p>
+<p class="form-note">提交即表示您同意信朴科技与您联系。我们承诺仅用于商务沟通，不会向第三方泄露您的信息。如需即时响应，请直接拨打 <a href="tel:18926108189">18926108189</a>。</p>
 </form>
 </div>
 </div>
@@ -532,7 +532,7 @@ section,.contact-card,.dir-card,.promise-card,.faq,.step,.addr-card,.map-card{op
 <div class="sec-head">
 <div class="sec-eyebrow">SERVICE DIRECTIONS</div>
 <h2 class="sec-title">您想咨询哪个方向？<span class="em">告诉我们</span></h2>
-<p class="sec-desc">四大服务方向可独立采购，也可组合为完整的企业 AI 建设项目。不确定也没关系——信朴会先帮您诊断。</p>
+<p class="sec-desc">四大服务方向可独立采购，也可组合为完整的企业 AI 建设项目。不确定也没关系——信朴科技会先帮您诊断。</p>
 </div>
 
 <div class="dir-grid">
@@ -640,8 +640,8 @@ section,.contact-card,.dir-card,.promise-card,.faq,.step,.addr-card,.map-card{op
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">OUR PROMISE</div>
-<h2 class="sec-title">联系信朴后，<span class="em">您可以期待什么</span></h2>
-<p class="sec-desc">不只是接电话、回消息——从第一次接触到项目交付，信朴都有明确的服务承诺。</p>
+<h2 class="sec-title">联系信朴科技后，<span class="em">您可以期待什么</span></h2>
+<p class="sec-desc">不只是接电话、回消息——从第一次接触到项目交付，信朴科技都有明确的服务承诺。</p>
 </div>
 
 <div class="promise-grid">
@@ -679,21 +679,21 @@ section,.contact-card,.dir-card,.promise-card,.faq,.step,.addr-card,.map-card{op
 <div class="sec-head">
 <div class="sec-eyebrow">FAQ</div>
 <h2 class="sec-title">联系前的，<span class="em">常见问题</span></h2>
-<p class="sec-desc">这些是联系信朴前客户最常问的问题，先看看能不能解答您的疑问。</p>
+<p class="sec-desc">这些是联系信朴科技前客户最常问的问题，先看看能不能解答您的疑问。</p>
 </div>
 
 <div class="faq-wrap">
 <details class="faq" open>
 <summary>第一次联系，需要准备什么信息？</summary>
 <div class="faq-a">
-不需要特别准备。您只需说明<strong>企业名称、联系人、大致的团队规模</strong>，以及希望解决的方向（比如想做培训、想试 Agent、想了解模型用量），信朴商务会引导您进入后续沟通。越具体的需求描述，越有助于我们快速匹配方案。
+不需要特别准备。您只需说明<strong>企业名称、联系人、大致的团队规模</strong>，以及希望解决的方向（比如想做培训、想试 Agent、想了解模型用量），信朴科技商务会引导您进入后续沟通。越具体的需求描述，越有助于我们快速匹配方案。
 </div>
 </details>
 
 <details class="faq">
 <summary>课程价格和 Agent 项目费用怎么算？</summary>
 <div class="faq-a">
-课程价格根据企业规模、课程组合和交付方式单独确认；Agent 项目费用根据项目复杂度单独确认。<strong>信朴会先理解需求，再输出方案与报价</strong>，不会在未了解情况时直接报价。
+课程价格根据企业规模、课程组合和交付方式单独确认；Agent 项目费用根据项目复杂度单独确认。<strong>信朴科技会先理解需求，再输出方案与报价</strong>，不会在未了解情况时直接报价。
 </div>
 </details>
 
@@ -707,21 +707,21 @@ WorkBuddy <strong>50 个席位起购</strong>。采购 50 席及以上，赠送 
 <details class="faq">
 <summary>服务地区有限制吗？外地企业可以合作吗？</summary>
 <div class="faq-a">
-信朴总部在广州，服务覆盖全国。<strong>线上培训与远程协作不受地域限制</strong>；广东地区客户满足采购条件后可根据排期提供线下支持，外地客户的现场 FDE 服务可另行沟通安排。
+信朴科技总部在广州，服务覆盖全国。<strong>线上培训与远程协作不受地域限制</strong>；广东地区客户满足采购条件后可根据排期提供线下支持，外地客户的现场 FDE 服务可另行沟通安排。
 </div>
 </details>
 
 <details class="faq">
 <summary>不确定从哪个方向开始怎么办？</summary>
 <div class="faq-a">
-没关系。信朴支持<strong>从一个课程、一个部门或一个 Agent 开始</strong>，也可以协助规划完整建设项目。联系我们后，商务团队会先了解您的现状，再建议适合的起点——这正是「先诊断、后定制」的工作方式。
+没关系。信朴科技支持<strong>从一个课程、一个部门或一个 Agent 开始</strong>，也可以协助规划完整建设项目。联系我们后，商务团队会先了解您的现状，再建议适合的起点——这正是「先诊断、后定制」的工作方式。
 </div>
 </details>
 
 <details class="faq">
 <summary>联系后会被频繁推销吗？</summary>
 <div class="faq-a">
-不会。信朴的联系遵循<strong>「按需沟通」</strong>原则：在您需要时提供信息和建议，不会频繁打扰。如果您暂时不需要推进，我们尊重您的节奏，随时可以重新启动沟通。
+不会。信朴科技的联系遵循<strong>「按需沟通」</strong>原则：在您需要时提供信息和建议，不会频繁打扰。如果您暂时不需要推进，我们尊重您的节奏，随时可以重新启动沟通。
 </div>
 </details>
 </div>
@@ -733,7 +733,7 @@ WorkBuddy <strong>50 个席位起购</strong>。采购 50 席及以上，赠送 
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">LOCATION</div>
-<h2 class="sec-title">来访信朴，<span class="em">我们在广州天河</span></h2>
+<h2 class="sec-title">来访信朴科技，<span class="em">我们在广州天河</span></h2>
 <p class="sec-desc">公司位于广州市天河区科韵路16号信息港A栋1510，欢迎预约来访。</p>
 </div>
 
@@ -814,7 +814,7 @@ WorkBuddy <strong>50 个席位起购</strong>。采购 50 席及以上，赠送 
 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
 </div>
 <div class="pin-label">
-信朴
+信朴科技
 <span class="sub">科韵路16号信息港A栋1510</span>
 </div>
 </div>
@@ -865,7 +865,7 @@ var data=new FormData(form);
 var name=data.get('name')||'';
 var phone=data.get('phone')||'';
 var dir=data.get('direction')||'';
-alert('感谢您的留言，'+name+'！\n\n我们已收到您的咨询需求（方向：'+dir+'）。\n信朴商务团队会在 1 个工作日内联系您：'+phone+'。\n\n如需即时响应，请直接拨打 18926108189。');
+alert('感谢您的留言，'+name+'！\n\n我们已收到您的咨询需求（方向：'+dir+'）。\n信朴科技商务团队会在 1 个工作日内联系您：'+phone+'。\n\n如需即时响应，请直接拨打 18926108189。');
 form.reset();
 }
 

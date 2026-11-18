@@ -1,7 +1,7 @@
 ---
-title: "企业AI行业动态与常见问答 - 信朴"
-description: "信朴新闻中心发布企业AI行业动态、产品更新、AI落地与AI提效洞察及活动预告，汇总AI培训、Agent定制、Token供应、WorkBuddy培训等领域客户最关心的常见问题与专业解答。"
-keywords: "企业AI,AI落地,AI培训,AI提效,Agent定制,Token供应,WorkBuddy培训,信朴"
+title: "企业AI行业动态与常见问答 - 信朴科技"
+description: "信朴科技新闻中心发布企业AI行业动态、产品更新、AI落地与AI提效洞察及活动预告，汇总AI培训、Agent定制、Token供应、WorkBuddy培训等领域客户最关心的常见问题与专业解答。"
+keywords: "企业AI,AI落地,AI培训,AI提效,Agent定制,Token供应,WorkBuddy培训,信朴科技"
 nav: "news"
 date: 2026-11-18
 draft: false
@@ -355,7 +355,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="hero-inner">
 <div class="hero-eyebrow reveal"><span class="line"></span>NEWS CENTER · 新闻中心</div>
 <h1 class="reveal reveal-d1">动态与思考，<br>都在 <span class="em">AI 落地的路上</span></h1>
-<p class="sub reveal reveal-d2">这里有信朴的最新动态、产品发布与行业洞察，也有客户最关心的常见问题。我们相信透明与专业，是企业级服务的起点。</p>
+<p class="sub reveal reveal-d2">这里有信朴科技的最新动态、产品发布与行业洞察，也有客户最关心的常见问题。我们相信透明与专业，是企业级服务的起点。</p>
 <div class="hero-metrics reveal reveal-d3">
 <div class="hero-metric">
 <div class="num">30<span class="unit">+ 篇/年</span></div>
@@ -383,8 +383,8 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="wrap">
 <div class="sec-head reveal">
 <div class="sec-eyebrow"><span class="dot"></span>HEADLINE · 本月要闻</div>
-<h2 class="sec-title">信朴蝉联<span class="em">腾讯云华南殿堂级服务商</span></h2>
-<p class="sec-sub">凭借企业级交付能力与客户口碑，信朴再次通过腾讯云最高等级服务商认证，继续稳居华南最大代理商之列。</p>
+<h2 class="sec-title">信朴科技蝉联<span class="em">腾讯云华南殿堂级服务商</span></h2>
+<p class="sec-sub">凭借企业级交付能力与客户口碑，信朴科技再次通过腾讯云最高等级服务商认证，继续稳居华南最大代理商之列。</p>
 </div>
 <div class="featured-card reveal reveal-d1">
 <div class="featured-visual">
@@ -395,7 +395,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 </div>
 <div class="featured-body">
 <div class="featured-tag">公司动态 · 资质认证</div>
-<h3>信朴为克拉波互娱提供大模型Token聚合服务，AI调用成本降低42%</h3>
+<h3>信朴科技为克拉波互娱提供大模型Token聚合服务，AI调用成本降低42%</h3>
 <p class="excerpt">近日，广州麦朴科技有限公司宣布，其为国内新锐游戏研发厂商——克拉波互娱游戏提供的大模型Token供应与AI工具服务取得突破性成果 ...</p>
 <div class="featured-meta">
 <span class="chip">殿堂级 · 最高等级</span>
@@ -430,8 +430,8 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="news-date"><span class="d">08-22</span><span class="m">2017</span></div>
 <div class="news-main">
 <span class="news-cat">公司动态</span>
-<h3>信朴为克拉波互娱提供大模型Token聚合服务，AI调用成本降低42%</h3>
-<p>近日，广州麦朴科技有限公司宣布，其为国内新锐游戏研发厂商——克拉波互娱游戏提供的大模型Token供应与AI工具服务取得突破性成果。经过10个月的持续合作，信朴的Token聚合供应方案帮助克拉波 ...</p>
+<h3>信朴科技为克拉波互娱提供大模型Token聚合服务，AI调用成本降低42%</h3>
+<p>近日，广州麦朴科技有限公司宣布，其为国内新锐游戏研发厂商——克拉波互娱游戏提供的大模型Token供应与AI工具服务取得突破性成果。经过10个月的持续合作，信朴科技的Token聚合供应方案帮助克拉波 ...</p>
 </div>
 <div class="news-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
 </a><a href="/news-jinyi-agent.html" class="news-item n-company reveal" data-cat="company">
@@ -439,8 +439,8 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="news-date"><span class="d">08-16</span><span class="m">2017</span></div>
 <div class="news-main">
 <span class="news-cat">公司动态</span>
-<h3>信朴为广东金亿防护定制企业级AI Agent，售前接待响应时效缩短70%</h3>
-<p>近日，广州麦朴科技有限公司宣布，其为华南安全防护用品领军企业——广东金亿防护定制的企业级AI智能体（Agent）项目成功落地并取得显著成效。经过8个月的深度合作，信朴为金亿防护搭建的售前智能接 ...</p>
+<h3>信朴科技为广东金亿防护定制企业级AI Agent，售前接待响应时效缩短70%</h3>
+<p>近日，广州麦朴科技有限公司宣布，其为华南安全防护用品领军企业——广东金亿防护定制的企业级AI智能体（Agent）项目成功落地并取得显著成效。经过8个月的深度合作，信朴科技为金亿防护搭建的售前智能接 ...</p>
 </div>
 <div class="news-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
 </a><a href="/news-banana-climbing.html" class="news-item n-company reveal" data-cat="company">
@@ -448,7 +448,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="news-date"><span class="d">08-16</span><span class="m">2017</span></div>
 <div class="news-main">
 <span class="news-cat">公司动态</span>
-<h3>信朴携手香蕉攀岩，AI运营工具与培训陪跑助力连锁品牌效率提升210%</h3>
+<h3>信朴科技携手香蕉攀岩，AI运营工具与培训陪跑助力连锁品牌效率提升210%</h3>
 <p>近日，广州麦朴科技有限公司宣布，其为国内攀岩连锁场馆TOP品牌——香蕉攀岩提供的AI运营工具与培训陪跑服务取得显著成效。经过6个月的深度合作，香蕉攀岩全员AI工具应用覆盖率达90%，门店内容产出效 ...</p>
 </div>
 <div class="news-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
@@ -457,8 +457,8 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="news-date"><span class="d">08-16</span><span class="m">2017</span></div>
 <div class="news-main">
 <span class="news-cat">公司动态</span>
-<h3>信朴与广汽集团达成年度云计算与AI落地战略合作，助力世界500强企业数字化转型</h3>
-<p>近日，广州麦朴科技有限公司与广汽集团正式签署年度云计算与AI落地战略合作协议。作为《财富》世界500强企业、中国汽车行业头部企业，广汽集团选择信朴作为其云计算与AI落地的战略合作伙伴，标志着微 ...</p>
+<h3>信朴科技与广汽集团达成年度云计算与AI落地战略合作，助力世界500强企业数字化转型</h3>
+<p>近日，广州麦朴科技有限公司与广汽集团正式签署年度云计算与AI落地战略合作协议。作为《财富》世界500强企业、中国汽车行业头部企业，广汽集团选择信朴科技作为其云计算与AI落地的战略合作伙伴，标志着微 ...</p>
 </div>
 <div class="news-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
 </a>   
@@ -499,11 +499,11 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="faq-item open reveal">
 <button class="faq-q" aria-expanded="true">
 <span class="idx">01</span>
-<span class="txt">信朴具体提供哪些服务？分别解决什么问题？</span>
+<span class="txt">信朴科技具体提供哪些服务？分别解决什么问题？</span>
 <span class="icon"></span>
 </button>
 <div class="faq-a"><div class="faq-a-inner"><div class="content">
-信朴围绕企业 AI 能力建设提供<strong>七大产品、可独立采购也可组合交付</strong>：
+信朴科技围绕企业 AI 能力建设提供<strong>七大产品、可独立采购也可组合交付</strong>：
 <ul>
 <li><strong>AI 提效</strong> —— 学·用·建·管一站式闭环，解决「不会用、用不好」的问题</li>
 <li><strong>云计算服务</strong> —— 腾讯云华南殿堂级服务商，架构咨询、迁移部署、运维托管、成本优化</li>
@@ -534,7 +534,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <span class="icon"></span>
 </button>
 <div class="faq-a"><div class="faq-a-inner"><div class="content">
-信朴以<strong>企业级代理规模</strong>向模型方统一采购用量，再按企业实际消耗结算，因此单价显著低于个人官网充值（约 45 折）。采购 WorkBuddy 50 席以上的客户另获 <strong>2000 元模型兑换券</strong>。没有隐藏条款：支持的模型（GPT、Gemini 等）、计量方式、结算周期均在合同中明确，并配套<strong>用量看板与预算告警</strong>，成本透明可控。
+信朴科技以<strong>企业级代理规模</strong>向模型方统一采购用量，再按企业实际消耗结算，因此单价显著低于个人官网充值（约 45 折）。采购 WorkBuddy 50 席以上的客户另获 <strong>2000 元模型兑换券</strong>。没有隐藏条款：支持的模型（GPT、Gemini 等）、计量方式、结算周期均在合同中明确，并配套<strong>用量看板与预算告警</strong>，成本透明可控。
 </div></div></div>
 </div>
 
@@ -564,7 +564,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <span class="icon"></span>
 </button>
 <div class="faq-a"><div class="faq-a-inner"><div class="content">
-数据安全是企业级服务的底线。方案基于<strong>腾讯云企业级基础设施</strong>部署（信朴为腾讯云华南殿堂级服务商），支持私有化/专有云形态；知识库数据<strong>存储在客户自有空间</strong>，模型调用支持企业独立密钥与审计日志；敏感行业可配置数据脱敏与访问权限分级。所有数据处理条款写入合同，绝不将客户数据用于任何二次用途。
+数据安全是企业级服务的底线。方案基于<strong>腾讯云企业级基础设施</strong>部署（信朴科技为腾讯云华南殿堂级服务商），支持私有化/专有云形态；知识库数据<strong>存储在客户自有空间</strong>，模型调用支持企业独立密钥与审计日志；敏感行业可配置数据脱敏与访问权限分级。所有数据处理条款写入合同，绝不将客户数据用于任何二次用途。
 </div></div></div>
 </div>
 

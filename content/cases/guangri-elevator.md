@@ -1,7 +1,7 @@
 ---
-title: "装备制造行业智能化升级，传统制造企业 AI 提效落地案例 - 信朴"
+title: "装备制造行业智能化升级，传统制造企业 AI 提效落地案例 - 信朴科技"
 description: "以AI培训与Agent定制闭环切入，200+人完成AI培训，从全员培训到售后运维Agent，把分散的图纸与经验沉淀为组织能力，传统制造业AI提效与内化标杆案例。"
-keywords: "AI落地,企业AI,AI培训,AI提效,Agent定制,广日电梯AI,制造企业AI,信朴"
+keywords: "AI落地,企业AI,AI培训,AI提效,Agent定制,广日电梯AI,制造企业AI,信朴科技"
 nav: "cases"
 date: 2026-11-18
 draft: false
@@ -377,7 +377,7 @@ background-size:48px 48px;pointer-events:none;
 <span class="ind">智能制造 · 装备制造</span>
 </div>
 <h1 class="reveal reveal-d1">传统制造企业的 AI 内化：从单点工具到组织能力</h1>
-<p class="lead reveal reveal-d2">国内知名电梯制造企业 × 信朴：以「学·建·用·管」闭环切入，从全员培训到售后运维 Agent，把分散的图纸与经验，沉淀为可持续生长的组织能力。</p>
+<p class="lead reveal reveal-d2">国内知名电梯制造企业 × 信朴科技：以「学·建·用·管」闭环切入，从全员培训到售后运维 Agent，把分散的图纸与经验，沉淀为可持续生长的组织能力。</p>
 <div class="case-meta reveal reveal-d3">
 <span class="item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>2026 年 6 月发布</span>
 <span class="divider"></span>
@@ -464,7 +464,7 @@ background-size:48px 48px;pointer-events:none;
 <h2>解决方案：学 · 建 · 用 · 管闭环</h2>
 </div>
 </div>
-<p>信朴以「学·建·用·管」一站式闭环切入，针对制造企业的三大挑战逐一破局：</p>
+<p>信朴科技以「学·建·用·管」一站式闭环切入，针对制造企业的三大挑战逐一破局：</p>
 <div class="sol-grid">
 <div class="sol">
 <div class="step"><span class="zh">学</span><span class="tag">Training</span></div>
@@ -540,7 +540,7 @@ background-size:48px 48px;pointer-events:none;
 <p>更重要的是组织能力的变化——研发与售后团队开始<strong>主动</strong>提出新的 AI 场景需求，AI 从「IT 部门的项目」变成了「全公司的生产方式」，知识资产持续生长。</p>
 <div class="case-quote">
 <div class="mark">“</div>
-<p>我们最看重的不是哪个 Agent 多好用，而是信朴帮我们把知识留下来了。现在老员工的经验不再是会走路的资产，AI 帮我们把它固化成了组织能力。</p>
+<p>我们最看重的不是哪个 Agent 多好用，而是信朴科技帮我们把知识留下来了。现在老员工的经验不再是会走路的资产，AI 帮我们把它固化成了组织能力。</p>
 <div class="src"><strong>国内知名电梯制造企业 · 信息化相关负责人</strong></div>
 </div>
 </div>
@@ -568,7 +568,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="side-card side-cta reveal reveal-d3">
 <h4>想要同样的成果？</h4>
-<p>预约一次免费的场景诊断，让信朴 FDE 团队帮你找出团队里最适合先落地的 AI 场景。</p>
+<p>预约一次免费的场景诊断，让信朴科技 FDE 团队帮你找出团队里最适合先落地的 AI 场景。</p>
 <a href="tel:18926108189" class="btn btn-p">预约诊断 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
 </div>
 </aside>

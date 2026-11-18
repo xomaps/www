@@ -1,7 +1,7 @@
 baseURL = "https://www.xomaps.com/"
 defaultContentLanguage = "zh-cn"
 timeZone = "Asia/Shanghai"
-title = "信朴"
+title = "信朴科技"
 enableRobotsTXT = true
 uglyURLs = true
 summaryLength = 120
