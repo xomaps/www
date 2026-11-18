@@ -1,8 +1,8 @@
 ---
-title: "支付行业 AI 落地案例：AI 赋能风控与智能客服建设实践 - 麦朴科技"
+title: "支付行业 AI 落地案例：AI 赋能风控与智能客服建设实践 - 信朴"
 description: "以知识问答、运营报表、风控辅助三类Agent定制切入支付业务全链路，客服响应提升40%，报表生成提速，在金融合规边界内把人力密集型工作交给智能体，支付行业AI落地标杆。
 "
-keywords: "AI落地,企业AI,Agent定制,支付行业AI,风控Agent,客服Agent,麦朴科技"
+keywords: "AI落地,企业AI,Agent定制,支付行业AI,风控Agent,客服Agent,信朴"
 nav: "cases"
 date: 2026-11-18
 draft: false
@@ -374,7 +374,7 @@ background-size:48px 48px;pointer-events:none;
 <span class="ind">金融科技 · 支付服务</span>
 </div>
 <h1 class="reveal reveal-d1">支付机构的 AI 闭环：从风控到客服的全链路提效</h1>
-<p class="lead reveal reveal-d2">国内知名支付科技企业 × 麦朴科技：以知识问答、运营报表、风控辅助三类 Agent 切入支付业务全链路，在严苛的金融合规边界内，把人力密集型工作交给智能体。</p>
+<p class="lead reveal reveal-d2">国内知名支付科技企业 × 信朴：以知识问答、运营报表、风控辅助三类 Agent 切入支付业务全链路，在严苛的金融合规边界内，把人力密集型工作交给智能体。</p>
 <div class="case-meta reveal reveal-d3">
 <span class="item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>2026 年 7 月发布</span>
 <span class="divider"></span>
@@ -461,7 +461,7 @@ background-size:48px 48px;pointer-events:none;
 <h2>解决方案：风控 · 报表 · 问答三类智能体</h2>
 </div>
 </div>
-<p>麦朴科技以「建·用·学·管」闭环切入，在金融合规边界内逐个攻下高价值场景：</p>
+<p>信朴以「建·用·学·管」闭环切入，在金融合规边界内逐个攻下高价值场景：</p>
 <div class="sol-grid">
 <div class="sol">
 <div class="step"><span class="zh">建</span><span class="tag">Build</span></div>
@@ -537,7 +537,7 @@ background-size:48px 48px;pointer-events:none;
 <p>更重要的是组织能力的变化——风控与运营团队开始<strong>主动</strong>提出新的 AI 场景需求，AI 在严苛的合规边界内，成为了业务流程的有机组成部分。</p>
 <div class="case-quote">
 <div class="mark">“</div>
-<p>金融行业最怕的就是不可控。麦朴科技把合规边界画得很清楚，AI 在边界内帮我们提效，这是我们敢用、敢推的原因。</p>
+<p>金融行业最怕的就是不可控。信朴把合规边界画得很清楚，AI 在边界内帮我们提效，这是我们敢用、敢推的原因。</p>
 <div class="src"><strong>国内知名支付科技企业 · 运营相关负责人</strong></div>
 </div>
 </div>
@@ -565,7 +565,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="side-card side-cta reveal reveal-d3">
 <h4>想要同样的成果？</h4>
-<p>预约一次免费的场景诊断，让麦朴科技 FDE 团队帮你找出团队里最适合先落地的 AI 场景。</p>
+<p>预约一次免费的场景诊断，让信朴 FDE 团队帮你找出团队里最适合先落地的 AI 场景。</p>
 <a href="tel:18926108189" class="btn btn-p">预约诊断 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
 </div>
 </aside>

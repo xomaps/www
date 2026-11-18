@@ -1,8 +1,8 @@
 ---
-title: "关于麦朴科技 | 腾讯云华南殿堂级服务商 | 企业AI落地 - 麦朴科技"
+title: "关于信朴 | 腾讯云华南殿堂级服务商 | 企业AI落地 - 信朴"
 description: "广州麦朴科技有限公司是腾讯云华南殿堂级服务商、华南最大代理商，团队近30人，研发与专业技术人员占76%，累计服务超万家企业，提供企业AI落地、AI培训、Agent定制全链路支持。
 "
-keywords: "腾讯云,企业AI,AI落地,AI培训,Agent定制,腾讯云殿堂级服务商,麦朴科技,广州麦朴科技"
+keywords: "腾讯云,企业AI,AI落地,AI培训,Agent定制,腾讯云殿堂级服务商,信朴,广州麦朴科技"
 nav: "about"
 date: 2026-11-18
 draft: false
@@ -153,7 +153,7 @@ section{padding:72px 0}
 .value-body h4{font-size:16px;font-weight:700;color:var(--text);margin-bottom:6px}
 .value-body p{font-size:13.5px;color:var(--text-2);line-height:1.7}
 
-/* 为什么选麦朴科技 */
+/* 为什么选信朴 */
 .why-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
 .why-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius-lg);padding:28px 22px;text-align:center;transition:all .2s}
 .why-card:hover{border-color:var(--brand);box-shadow:var(--shadow)}
@@ -274,7 +274,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="wrap">
 <div class="hero-eyebrow">企业 AI 能力建设服务商 · 腾讯云华南殿堂级服务商</div>
 <h1>
-<span class="line1">认识麦朴科技</span>
+<span class="line1">认识信朴</span>
 <span class="line2">让 AI 真正走进企业业务流程</span>
 </h1>
 <p class="sub">源自腾讯云计算服务经验，累计服务超万家企业客户，围绕企业 AI 落地提供咨询、培训、工具模型、Agent 定制与内化建设的一体化支持。</p>
@@ -285,8 +285,8 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <span>研发人员占比 76%</span>
 </div>
 <div class="hero-cta">
-<a href="/contact.html#form" class="btn btn-accent btn-lg">联系麦朴科技</a>
-<a href="#intro" class="btn btn-ghost btn-lg">了解麦朴科技</a>
+<a href="/contact.html#form" class="btn btn-accent btn-lg">联系信朴</a>
+<a href="#intro" class="btn btn-ghost btn-lg">了解信朴</a>
 </div>
 </div>
 </header>
@@ -309,14 +309,14 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="sec-head">
 <div class="sec-eyebrow">ABOUT US</div>
 <h2 class="sec-title">企业 AI 能力建设，<span class="em">与应用落地服务商</span></h2>
-<p class="sec-desc">麦朴科技不把企业 AI 简单理解为采购一套工具或完成一次培训，而是回答四个连续的问题：从哪里开始、团队是否掌握方法、工具能否进入工作流、有效做法能否沉淀为长期能力。</p>
+<p class="sec-desc">信朴不把企业 AI 简单理解为采购一套工具或完成一次培训，而是回答四个连续的问题：从哪里开始、团队是否掌握方法、工具能否进入工作流、有效做法能否沉淀为长期能力。</p>
 </div>
 
 <div class="intro">
 <div class="intro-text">
 <p class="lead">广州麦朴科技有限公司源自腾讯云计算服务经验，是腾讯云华南殿堂级服务商，累计服务超过万家企业客户。</p>
-<p>围绕企业 AI 落地，麦朴科技提供从前期<strong>咨询、能力培训、工具与模型服务</strong>，到<strong>知识库、Agent 定制和组织内化建设</strong>的一体化支持。我们相信，真正有效的 AI 建设，需要让员工不仅「听懂 AI」，更能在岗位中用起来，并把有效做法沉淀为企业长期能力。</p>
-<p>麦朴科技支持从一个课程、一个部门或一个 Agent 开始，也可以协助企业规划从能力普及到应用落地的完整建设项目——以咨询定方向，以实操培育人，以工具承载场景，以应用实现价值。</p>
+<p>围绕企业 AI 落地，信朴提供从前期<strong>咨询、能力培训、工具与模型服务</strong>，到<strong>知识库、Agent 定制和组织内化建设</strong>的一体化支持。我们相信，真正有效的 AI 建设，需要让员工不仅「听懂 AI」，更能在岗位中用起来，并把有效做法沉淀为企业长期能力。</p>
+<p>信朴支持从一个课程、一个部门或一个 Agent 开始，也可以协助企业规划从能力普及到应用落地的完整建设项目——以咨询定方向，以实操培育人，以工具承载场景，以应用实现价值。</p>
 </div>
 <div class="intro-card">
 <h4>公司概况</h4>
@@ -336,7 +336,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">KEY FIGURES</div>
-<h2 class="sec-title">用数字说明，<span class="em">麦朴科技是谁</span></h2>
+<h2 class="sec-title">用数字说明，<span class="em">信朴是谁</span></h2>
 <p class="sec-desc">从团队规模到服务覆盖，每一个数字背后都是真实的企业 AI 落地实践。</p>
 </div>
 
@@ -383,7 +383,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="sec-head">
 <div class="sec-eyebrow">OUR JOURNEY</div>
 <h2 class="sec-title">从云服务到 AI 落地，<span class="em">一路跑通真实业务</span></h2>
-<p class="sec-desc">麦朴科技的起点是腾讯云计算服务，随着企业需求演进，逐步把能力延伸到 AI 能力建设与应用落地全链路。</p>
+<p class="sec-desc">信朴的起点是腾讯云计算服务，随着企业需求演进，逐步把能力延伸到 AI 能力建设与应用落地全链路。</p>
 </div>
 
 <div class="timeline">
@@ -422,7 +422,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="sec-head">
 <div class="sec-eyebrow">SERVICE DIRECTIONS</div>
 <h2 class="sec-title">四大服务方向，<span class="em">可独立采购，也可组合</span></h2>
-<p class="sec-desc">企业所处阶段不同，需要的服务也不同。麦朴科技的服务可以独立采购，也可以组合为完整的企业 AI 建设项目。</p>
+<p class="sec-desc">企业所处阶段不同，需要的服务也不同。信朴的服务可以独立采购，也可以组合为完整的企业 AI 建设项目。</p>
 </div>
 
 <div class="prod-grid">
@@ -532,8 +532,8 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">OUR VALUES</div>
-<h2 class="sec-title">麦朴科技的四个坚持，<span class="em">也是落地的方法</span></h2>
-<p class="sec-desc">这四句话不是口号，而是麦朴科技在企业 AI 落地中真正遵循的工作方式——从方向到人，从工具到价值。</p>
+<h2 class="sec-title">信朴的四个坚持，<span class="em">也是落地的方法</span></h2>
+<p class="sec-desc">这四句话不是口号，而是信朴在企业 AI 落地中真正遵循的工作方式——从方向到人，从工具到价值。</p>
 </div>
 
 <div class="value-grid">
@@ -569,13 +569,13 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 </div>
 </section>
 
-<!-- ══════════ 7. 为什么选麦朴科技 ══════════ -->
+<!-- ══════════ 7. 为什么选信朴 ══════════ -->
 <section id="why">
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div>
 <h2 class="sec-title">既是落地服务商，<span class="em">也是 AI 落地亲历者</span></h2>
-<p class="sec-desc">麦朴科技不止于做演示——从咨询到应用的一体化能力，让 AI 真正落进业务流程。</p>
+<p class="sec-desc">信朴不止于做演示——从咨询到应用的一体化能力，让 AI 真正落进业务流程。</p>
 </div>
 
 <div class="why-grid">
@@ -617,7 +617,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="sec-head">
 <div class="sec-eyebrow">INDUSTRY COVERAGE</div>
 <h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2>
-<p class="sec-desc">麦朴科技的合作实践覆盖企业 AI 咨询、能力培养、工具导入和业务场景应用建设，客户来自制造业、服务业与科技专业服务三大板块。</p>
+<p class="sec-desc">信朴的合作实践覆盖企业 AI 咨询、能力培养、工具导入和业务场景应用建设，客户来自制造业、服务业与科技专业服务三大板块。</p>
 </div>
 
 <div class="industry-cloud">
@@ -646,7 +646,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="sec-head">
 <div class="sec-eyebrow">CLIENTS</div>
 <h2 class="sec-title">15+ 行业头部企业的，<span class="em">共同选择</span></h2>
-<p class="sec-desc">这些客户在 AI 咨询、能力培养、工具导入和业务场景应用建设中选择了麦朴科技。</p>
+<p class="sec-desc">这些客户在 AI 咨询、能力培养、工具导入和业务场景应用建设中选择了信朴。</p>
 </div>
 
 <div class="client-grid">

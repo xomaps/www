@@ -1,7 +1,7 @@
 ---
-title: "企业AI落地服务 | 场景诊断到Agent上线 - 麦朴科技"
-description: "麦朴科技AI落地服务以场景诊断、知识库建设、Agent定制与FDE现场共创、内化体系建设四段闭环，让企业AI从演示走进日常业务流程，把AI能力沉淀为组织资产，已服务广汽埃安、如祺出行等15+行业头部企业。"
-keywords: "AI落地,企业AI,Agent定制,AI培训,腾讯云,AI场景诊断,知识库建设,FDE现场共创,麦朴科技"
+title: "企业AI落地服务 | 场景诊断到Agent上线 - 信朴"
+description: "信朴AI落地服务以场景诊断、知识库建设、Agent定制与FDE现场共创、内化体系建设四段闭环，让企业AI从演示走进日常业务流程，把AI能力沉淀为组织资产，已服务广汽埃安、如祺出行等15+行业头部企业。"
+keywords: "AI落地,企业AI,Agent定制,AI培训,腾讯云,AI场景诊断,知识库建设,FDE现场共创,信朴"
 nav: "services"
 date: 2026-11-18
 draft: false
@@ -187,7 +187,7 @@ section{padding:72px 0}
 .case-metric .l{font-size:12px;color:var(--text-2);line-height:1.5}
 .case-card p{font-size:13.5px;color:var(--text-2);line-height:1.7}
 
-/* ───────── 为什么选麦朴科技：极简四卡 ───────── */
+/* ───────── 为什么选信朴：极简四卡 ───────── */
 .why-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
 .why-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius-lg);padding:28px 22px;text-align:center;transition:all .2s}
 .why-card:hover{border-color:var(--brand);box-shadow:var(--shadow)}
@@ -686,7 +686,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <div class="sec-head">
 <div class="sec-eyebrow">LANDING OUTCOMES</div>
 <h2 class="sec-title">不止方法论，<span class="em">更有跑通的真实成果</span></h2>
-<p class="sec-desc">麦朴科技累计服务超万家企业客户，覆盖 15+ 行业，让 AI 真正落进业务流程。</p>
+<p class="sec-desc">信朴累计服务超万家企业客户，覆盖 15+ 行业，让 AI 真正落进业务流程。</p>
 </div>
 
 <div class="stats-grid">
@@ -724,7 +724,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <div class="sec-head">
 <div class="sec-eyebrow">CUSTOMER CASES</div>
 <h2 class="sec-title">真实客户实践，<span class="em">验证 AI 可落地</span></h2>
-<p class="sec-desc">不同行业、不同岗位的落地场景不同，麦朴科技按「先诊断、后定制」的方式设计 Agent。</p>
+<p class="sec-desc">不同行业、不同岗位的落地场景不同，信朴按「先诊断、后定制」的方式设计 Agent。</p>
 </div>
 
 <div class="case-grid">
@@ -763,13 +763,13 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 </div>
 </section>
 
-<!-- ══════════ 8. 为什么选麦朴科技 ══════════ -->
+<!-- ══════════ 8. 为什么选信朴 ══════════ -->
 <section id="why" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div>
 <h2 class="sec-title">既是落地服务商，<span class="em">也是 AI 落地亲历者</span></h2>
-<p class="sec-desc">麦朴科技不止于做演示——业务起点、真实材料、FDE 驻场、全链路承接，让 AI 真正落进业务流程。</p>
+<p class="sec-desc">信朴不止于做演示——业务起点、真实材料、FDE 驻场、全链路承接，让 AI 真正落进业务流程。</p>
 </div>
 
 <div class="why-grid">
@@ -811,7 +811,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <div class="sec-head">
 <div class="sec-eyebrow">INDUSTRY COVERAGE</div>
 <h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2>
-<p class="sec-desc">麦朴科技的 AI 落地实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
+<p class="sec-desc">信朴的 AI 落地实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
 </div>
 
 <div class="industry-cloud">
@@ -890,7 +890,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <details class="faq-item" open>
 <summary class="faq-q">多久能看到落地效果？</summary>
 <div class="faq-a">
-取决于场景复杂度与知识准备度。麦朴科技采用<strong>试点先行、小步快跑</strong>的方式，先选择一个完整场景做出可见成果，见效后再逐步扩大范围。
+取决于场景复杂度与知识准备度。信朴采用<strong>试点先行、小步快跑</strong>的方式，先选择一个完整场景做出可见成果，见效后再逐步扩大范围。
 </div>
 </details>
 
@@ -904,21 +904,21 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <details class="faq-item">
 <summary class="faq-q">落地前需要先建好知识库吗？</summary>
 <div class="faq-a">
-不一定。麦朴科技会先做知识盘点，判断现有资料能否支撑场景；知识库建设本身也是落地服务的一环，可以<strong>一并规划、分步推进</strong>。
+不一定。信朴会先做知识盘点，判断现有资料能否支撑场景；知识库建设本身也是落地服务的一环，可以<strong>一并规划、分步推进</strong>。
 </div>
 </details>
 
 <details class="faq-item">
 <summary class="faq-q">落地之后怎么持续运营？</summary>
 <div class="faq-a">
-麦朴科技会完成<strong>使用说明、维护方式与迭代机制</strong>的交接，并培训内部团队持续运营；如需深化，可衔接企业 AI 咨询的内化体系建设服务。
+信朴会完成<strong>使用说明、维护方式与迭代机制</strong>的交接，并培训内部团队持续运营；如需深化，可衔接企业 AI 咨询的内化体系建设服务。
 </div>
 </details>
 
 <details class="faq-item">
 <summary class="faq-q">与直接买软件或招人有什么区别？</summary>
 <div class="faq-a">
-买软件是「买工具」，招人是「加人手」；麦朴科技提供的是<strong>「诊断 + 建设 + 内化」</strong>的方法与交付，帮企业把 AI 用进真实业务，并把能力沉淀给自己团队。
+买软件是「买工具」，招人是「加人手」；信朴提供的是<strong>「诊断 + 建设 + 内化」</strong>的方法与交付，帮企业把 AI 用进真实业务，并把能力沉淀给自己团队。
 </div>
 </details>
 </div>

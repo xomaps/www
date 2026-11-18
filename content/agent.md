@@ -1,7 +1,7 @@
 ---
-title: "企业Agent定制服务 | 让Agent在业务里跑起来 - 麦朴科技"
-description: "麦朴科技Agent定制服务：场景诊断+Agent定制+企业知识库+FDE现场共创，支持知识问答、客服、销售辅助、运营分析、报告生成、流程协同、研发辅助七类Agent，五步落地法让Agent在企业AI场景中真实运行。"
-keywords: "Agent定制,企业AI,AI落地,腾讯云,企业Agent开发,AI Agent定制,智能体定制,麦朴科技"
+title: "企业Agent定制服务 | 让Agent在业务里跑起来 - 信朴"
+description: "信朴Agent定制服务：场景诊断+Agent定制+企业知识库+FDE现场共创，支持知识问答、客服、销售辅助、运营分析、报告生成、流程协同、研发辅助七类Agent，五步落地法让Agent在企业AI场景中真实运行。"
+keywords: "Agent定制,企业AI,AI落地,腾讯云,企业Agent开发,AI Agent定制,智能体定制,信朴"
 nav: "services"
 date: 2026-11-18
 draft: false
@@ -580,7 +580,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="sec-head">
 <div class="sec-eyebrow">CUSTOMIZATION OUTCOMES</div>
 <h2 class="sec-title">不止交付工具，<span class="em">更有跑通的真实成果</span></h2>
-<p class="sec-desc">麦朴科技累计服务超万家企业客户，覆盖 15+ 行业，让 Agent 真正在业务里跑起来。</p>
+<p class="sec-desc">信朴累计服务超万家企业客户，覆盖 15+ 行业，让 Agent 真正在业务里跑起来。</p>
 </div>
 
 <div class="stats-grid">
@@ -618,7 +618,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="sec-head">
 <div class="sec-eyebrow">CUSTOMER CASES</div>
 <h2 class="sec-title">真实客户实践，<span class="em">验证 Agent 可落地</span></h2>
-<p class="sec-desc">不同行业、不同岗位的 Agent 场景不同，麦朴科技按「先诊断、后定制」的方式交付。</p>
+<p class="sec-desc">不同行业、不同岗位的 Agent 场景不同，信朴按「先诊断、后定制」的方式交付。</p>
 </div>
 
 <div class="case-grid">
@@ -657,7 +657,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 </div>
 </section>
 
-<!-- ══════════ 8. 为什么选麦朴科技 ══════════ -->
+<!-- ══════════ 8. 为什么选信朴 ══════════ -->
 <section id="why" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
@@ -697,7 +697,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="sec-head">
 <div class="sec-eyebrow">INDUSTRY COVERAGE</div>
 <h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2>
-<p class="sec-desc">麦朴科技的 Agent 定制与 AI 落地实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
+<p class="sec-desc">信朴的 Agent 定制与 AI 落地实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
 </div>
 
 <div class="industry-cloud">
@@ -783,7 +783,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <details class="faq-item">
 <summary class="faq-q">没有数据 / 知识库能建吗？</summary>
 <div class="faq-a">
-可以。可<strong>先建设企业知识库</strong>，麦朴科技协助梳理企业资料、SOP 与问答；知识越全，Agent 越准。
+可以。可<strong>先建设企业知识库</strong>，信朴协助梳理企业资料、SOP 与问答；知识越全，Agent 越准。
 </div>
 </details>
 
@@ -797,7 +797,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <details class="faq-item">
 <summary class="faq-q">和买现成的 Agent 有什么区别？</summary>
 <div class="faq-a">
-现成工具解决通用问题；麦朴科技的定制 Agent<strong>围绕真实业务设计</strong>，与企业知识库、流程打通，并由 FDE 现场共创保证落地。
+现成工具解决通用问题；信朴的定制 Agent<strong>围绕真实业务设计</strong>，与企业知识库、流程打通，并由 FDE 现场共创保证落地。
 </div>
 </details>
 
