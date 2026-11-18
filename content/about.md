@@ -1,8 +1,8 @@
 ---
 title: "关于信朴科技 | 腾讯云华南殿堂级服务商 | 企业AI落地 - 信朴科技"
-description: "广州麦朴科技有限公司是腾讯云华南殿堂级服务商、华南最大代理商，团队近30人，研发与专业技术人员占76%，累计服务超万家企业，提供企业AI落地、AI培训、Agent定制全链路支持。
+description: "广州信朴科技有限公司是腾讯云华南殿堂级服务商、华南最大代理商，团队近30人，研发与专业技术人员占76%，累计服务超万家企业，提供企业AI落地、AI培训、Agent定制全链路支持。
 "
-keywords: "腾讯云,企业AI,AI落地,AI培训,Agent定制,腾讯云殿堂级服务商,信朴科技,广州麦朴科技"
+keywords: "腾讯云,企业AI,AI落地,AI培训,Agent定制,腾讯云殿堂级服务商,信朴科技,广州信朴科技"
 nav: "about"
 date: 2026-11-18
 draft: false
@@ -314,17 +314,17 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 
 <div class="intro">
 <div class="intro-text">
-<p class="lead">广州麦朴科技有限公司源自腾讯云计算服务经验，是腾讯云华南殿堂级服务商，累计服务超过万家企业客户。</p>
+<p class="lead">广州信朴科技有限公司源自腾讯云计算服务经验，是腾讯云华南殿堂级服务商，累计服务超过万家企业客户。</p>
 <p>围绕企业 AI 落地，信朴科技提供从前期<strong>咨询、能力培训、工具与模型服务</strong>，到<strong>知识库、Agent 定制和组织内化建设</strong>的一体化支持。我们相信，真正有效的 AI 建设，需要让员工不仅「听懂 AI」，更能在岗位中用起来，并把有效做法沉淀为企业长期能力。</p>
 <p>信朴科技支持从一个课程、一个部门或一个 Agent 开始，也可以协助企业规划从能力普及到应用落地的完整建设项目——以咨询定方向，以实操培育人，以工具承载场景，以应用实现价值。</p>
 </div>
 <div class="intro-card">
 <h4>公司概况</h4>
-<div class="row"><span class="k">公司全称</span><span class="v">广州麦朴科技有限公司</span></div>
+<div class="row"><span class="k">公司全称</span><span class="v">广州信朴科技有限公司</span></div>
 <div class="row"><span class="k">公司定位</span><span class="v">企业 AI 能力建设与应用落地服务商</span></div>
 <div class="row"><span class="k">资质等级</span><span class="v">腾讯云华南殿堂级服务商（最高级）</span></div>
 <div class="row"><span class="k">代理地位</span><span class="v">腾讯云在华南最大代理商</span></div>
-<div class="row"><span class="k">公司地址</span><span class="v">广州市天河区科韵路16号信息港A栋1510</span></div>
+<div class="row"><span class="k">公司地址</span><span class="v">广州市天河区金穗路1号邦华广场16楼</span></div>
 <div class="row"><span class="k">商务联系</span><span class="v">冯小姐 18926108189</span></div>
 </div>
 </div>

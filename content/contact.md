@@ -1,6 +1,6 @@
 ---
 title: "联系信朴科技 | 企业AI落地与培训咨询 - 信朴科技"
-description: "系信朴科技：商务咨询冯小姐18926108189，地址广州市天河区科韵路16号信息港A栋1510。无论是一次AI培训、一个Agent定制试点，还是完整的企业AI落地规划，腾讯云殿堂级服务商为您提供合适的起点。"
+description: "系信朴科技：商务咨询冯小姐18926108189，地址广州市天河区金穗路1号邦华广场16楼。无论是一次AI培训、一个Agent定制试点，还是完整的企业AI落地规划，腾讯云殿堂级服务商为您提供合适的起点。"
 keywords: "企业AI,AI落地,AI培训,Agent定制,腾讯云,信朴科技,广州AI公司,企业AI咨询"
 nav: "contact"
 date: 2026-11-18
@@ -410,7 +410,7 @@ section,.contact-card,.dir-card,.promise-card,.faq,.step,.addr-card,.map-card{op
 </div>
 <div class="ct-label">公司地址</div>
 <div class="ct-main">广州天河</div>
-<div class="ct-sub">科韵路16号信息港A栋1510</div>
+<div class="ct-sub">金穗路1号邦华广场16楼</div>
 <a href="#addr" class="ct-action">查看地址
 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -451,7 +451,7 @@ section,.contact-card,.dir-card,.promise-card,.faq,.step,.addr-card,.map-card{op
 </div>
 <div>
 <div class="cl-k">公司地址</div>
-<div class="cl-v">广州市天河区科韵路16号<br>信息港A栋1510</div>
+<div class="cl-v">广州市天河区金穗路1号<br>邦华广场16楼</div>
 </div>
 </div>
 
@@ -736,12 +736,12 @@ WorkBuddy <strong>50 个席位起购</strong>。采购 50 席及以上，赠送 
 <div class="sec-head">
 <div class="sec-eyebrow">LOCATION</div>
 <h2 class="sec-title">来访信朴科技，<span class="em">我们在广州天河</span></h2>
-<p class="sec-desc">公司位于广州市天河区科韵路16号信息港A栋1510，欢迎预约来访。</p>
+<p class="sec-desc">公司位于广州市天河区金穗路1号邦华广场16楼，欢迎预约来访。</p>
 </div>
 
 <div class="addr-section">
 <div class="addr-card">
-<h3>广州麦朴科技有限公司</h3>
+<h3>广州信朴科技有限公司</h3>
 <p class="ac-desc">腾讯云华南殿堂级服务商 · 企业 AI 能力建设与应用落地服务商</p>
 
 <div class="addr-row">
@@ -750,7 +750,7 @@ WorkBuddy <strong>50 个席位起购</strong>。采购 50 席及以上，赠送 
 </div>
 <div>
 <div class="ar-k">公司地址</div>
-<div class="ar-v">广州市天河区科韵路16号信息港A栋1510
+<div class="ar-v">广州市天河区金穗路1号邦华广场16楼
 <span class="sub">广东省广州市天河区</span>
 </div>
 </div>
@@ -807,9 +807,9 @@ WorkBuddy <strong>50 个席位起购</strong>。采购 50 席及以上，赠送 
 <rect x="150" y="140" width="100" height="60" rx="4" fill="#eaf2fc" opacity="0.5"/>
 <rect x="480" y="100" width="90" height="70" rx="4" fill="#f0f6fc" opacity="0.6"/>
 <!-- 标注 -->
-<text x="400" y="265" font-size="11" fill="#9ca3af" text-anchor="middle" font-family="sans-serif">信息港</text>
+<text x="400" y="265" font-size="11" fill="#9ca3af" text-anchor="middle" font-family="sans-serif">邦华广场</text>
 <text x="200" y="175" font-size="11" fill="#9ca3af" text-anchor="middle" font-family="sans-serif">天河公园</text>
-<text x="525" y="140" font-size="11" fill="#9ca3af" text-anchor="middle" font-family="sans-serif">科韵路</text>
+<text x="525" y="140" font-size="11" fill="#9ca3af" text-anchor="middle" font-family="sans-serif">金穗路</text>
 </svg>
 <div class="map-pin">
 <div class="pin-ico">
@@ -817,13 +817,13 @@ WorkBuddy <strong>50 个席位起购</strong>。采购 50 席及以上，赠送 
 </div>
 <div class="pin-label">
 信朴科技
-<span class="sub">科韵路16号信息港A栋1510</span>
+<span class="sub">金穗路1号邦华广场16楼</span>
 </div>
 </div>
 </div>
 <div class="map-foot">
-<span>广州市天河区科韵路16号信息港A栋1510</span>
-<a href="https://map.qq.com/search/广州麦朴科技有限公司" target="_blank" rel="noopener">
+<span>广州市天河区金穗路1号邦华广场16楼</span>
+<a href="https://map.qq.com/search/广州信朴科技有限公司" target="_blank" rel="noopener">
 打开地图导航
 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6M10 14L21 3"/></svg>
 </a>

@@ -396,7 +396,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="featured-body">
 <div class="featured-tag">公司动态 · 资质认证</div>
 <h3>信朴科技为克拉波互娱提供大模型Token聚合服务，AI调用成本降低42%</h3>
-<p class="excerpt">近日，广州麦朴科技有限公司宣布，其为国内新锐游戏研发厂商——克拉波互娱游戏提供的大模型Token供应与AI工具服务取得突破性成果 ...</p>
+<p class="excerpt">近日，广州信朴科技有限公司宣布，其为国内新锐游戏研发厂商——克拉波互娱游戏提供的大模型Token供应与AI工具服务取得突破性成果 ...</p>
 <div class="featured-meta">
 <span class="chip">殿堂级 · 最高等级</span>
 <span class="chip">华南最大代理商</span>
@@ -431,7 +431,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="news-main">
 <span class="news-cat">公司动态</span>
 <h3>信朴科技为克拉波互娱提供大模型Token聚合服务，AI调用成本降低42%</h3>
-<p>近日，广州麦朴科技有限公司宣布，其为国内新锐游戏研发厂商——克拉波互娱游戏提供的大模型Token供应与AI工具服务取得突破性成果。经过10个月的持续合作，信朴科技的Token聚合供应方案帮助克拉波 ...</p>
+<p>近日，广州信朴科技有限公司宣布，其为国内新锐游戏研发厂商——克拉波互娱游戏提供的大模型Token供应与AI工具服务取得突破性成果。经过10个月的持续合作，信朴科技的Token聚合供应方案帮助克拉波 ...</p>
 </div>
 <div class="news-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
 </a><a href="/news-jinyi-agent.html" class="news-item n-company reveal" data-cat="company">
@@ -440,7 +440,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="news-main">
 <span class="news-cat">公司动态</span>
 <h3>信朴科技为广东金亿防护定制企业级AI Agent，售前接待响应时效缩短70%</h3>
-<p>近日，广州麦朴科技有限公司宣布，其为华南安全防护用品领军企业——广东金亿防护定制的企业级AI智能体（Agent）项目成功落地并取得显著成效。经过8个月的深度合作，信朴科技为金亿防护搭建的售前智能接 ...</p>
+<p>近日，广州信朴科技有限公司宣布，其为华南安全防护用品领军企业——广东金亿防护定制的企业级AI智能体（Agent）项目成功落地并取得显著成效。经过8个月的深度合作，信朴科技为金亿防护搭建的售前智能接 ...</p>
 </div>
 <div class="news-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
 </a><a href="/news-banana-climbing.html" class="news-item n-company reveal" data-cat="company">
@@ -449,7 +449,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="news-main">
 <span class="news-cat">公司动态</span>
 <h3>信朴科技携手香蕉攀岩，AI运营工具与培训陪跑助力连锁品牌效率提升210%</h3>
-<p>近日，广州麦朴科技有限公司宣布，其为国内攀岩连锁场馆TOP品牌——香蕉攀岩提供的AI运营工具与培训陪跑服务取得显著成效。经过6个月的深度合作，香蕉攀岩全员AI工具应用覆盖率达90%，门店内容产出效 ...</p>
+<p>近日，广州信朴科技有限公司宣布，其为国内攀岩连锁场馆TOP品牌——香蕉攀岩提供的AI运营工具与培训陪跑服务取得显著成效。经过6个月的深度合作，香蕉攀岩全员AI工具应用覆盖率达90%，门店内容产出效 ...</p>
 </div>
 <div class="news-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
 </a><a href="/news-gac-cloud-cooperation.html" class="news-item n-company reveal" data-cat="company">
@@ -458,7 +458,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="news-main">
 <span class="news-cat">公司动态</span>
 <h3>信朴科技与广汽集团达成年度云计算与AI落地战略合作，助力世界500强企业数字化转型</h3>
-<p>近日，广州麦朴科技有限公司与广汽集团正式签署年度云计算与AI落地战略合作协议。作为《财富》世界500强企业、中国汽车行业头部企业，广汽集团选择信朴科技作为其云计算与AI落地的战略合作伙伴，标志着微 ...</p>
+<p>近日，广州信朴科技有限公司与广汽集团正式签署年度云计算与AI落地战略合作协议。作为《财富》世界500强企业、中国汽车行业头部企业，广汽集团选择信朴科技作为其云计算与AI落地的战略合作伙伴，标志着微 ...</p>
 </div>
 <div class="news-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
 </a>   
@@ -651,7 +651,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 </div>
 <div class="row">
 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
-<div><span class="label">总部地址</span><div class="val">广州市天河区科韵路16号信息港A栋1510</div></div>
+<div><span class="label">总部地址</span><div class="val">广州市天河区金穗路1号邦华广场16楼</div></div>
 </div>
 <div class="row">
 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 7l9 6 9-6M3 7v10a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V7M3 7l2-2h14l2 2"/></svg>
