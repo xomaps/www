@@ -1,8 +1,8 @@
 ---
-title: "企业信息 SaaS 平台 AI 落地案例：平台 AI 原生能力升级实践 - 麦朴"
+title: "企业信息 SaaS 平台 AI 落地案例：平台 AI 原生能力升级实践 - 麦朴科技"
 description: "以知识问答、智能推荐、文档生成四类Agent定制切入，FDE现场共创把AI能力原生嵌入SaaS产品体验，4类智能Agent上线，用户活跃提升，SaaS行业AI落地标杆案例。
 "
-keywords: "AI落地,企业AI,Agent定制,企知道AI,SaaS平台AI,知识问答Agent,智能推荐Agent,麦朴"
+keywords: "AI落地,企业AI,Agent定制,企知道AI,SaaS平台AI,知识问答Agent,智能推荐Agent,麦朴科技"
 nav: "cases"
 date: 2026-11-18
 draft: false
@@ -374,7 +374,7 @@ background-size:48px 48px;pointer-events:none;
 <span class="ind">企业服务 · SaaS 平台</span>
 </div>
 <h1 class="reveal reveal-d1">SaaS 平台的 AI 原生升级：把智能体嵌进产品</h1>
-<p class="lead reveal reveal-d2">国内知名科创服务企业 × 麦朴：以知识问答、智能推荐、文档生成四类 Agent 切入，FDE 现场共创，把 AI 能力原生嵌入 SaaS 产品体验，让企业用户用得起来。</p>
+<p class="lead reveal reveal-d2">国内知名科创服务企业 × 麦朴科技：以知识问答、智能推荐、文档生成四类 Agent 切入，FDE 现场共创，把 AI 能力原生嵌入 SaaS 产品体验，让企业用户用得起来。</p>
 <div class="case-meta reveal reveal-d3">
 <span class="item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>2026 年 7 月发布</span>
 <span class="divider"></span>
@@ -461,7 +461,7 @@ background-size:48px 48px;pointer-events:none;
 <h2>解决方案：问答 · 推荐 · 生成 · 检索四类智能体</h2>
 </div>
 </div>
-<p>麦朴以 FDE 现场共创、五步法交付，把 AI 能力原生嵌入 SaaS 产品体验：</p>
+<p>麦朴科技以 FDE 现场共创、五步法交付，把 AI 能力原生嵌入 SaaS 产品体验：</p>
 <div class="sol-grid">
 <div class="sol">
 <div class="step"><span class="zh">问</span><span class="tag">Q&A</span></div>
@@ -537,7 +537,7 @@ background-size:48px 48px;pointer-events:none;
 <p>更重要的是产品形态的变化——AI 从外挂功能变成了产品的核心体验，用户开始<strong>主动</strong>反馈新的智能化需求，产品竞争力明显上一个台阶。</p>
 <div class="case-quote">
 <div class="mark">“</div>
-<p>麦朴的 FDE 不是外包，是和我们产品团队一起把 AI 嵌进产品的人。现在我们的用户是真的能问、能荐、能生成，这是过去自建团队做不到的速度。</p>
+<p>麦朴科技的 FDE 不是外包，是和我们产品团队一起把 AI 嵌进产品的人。现在我们的用户是真的能问、能荐、能生成，这是过去自建团队做不到的速度。</p>
 <div class="src"><strong>国内知名科创服务企业 · 产品相关负责人</strong></div>
 </div>
 </div>
@@ -565,7 +565,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="side-card side-cta reveal reveal-d3">
 <h4>想要同样的成果？</h4>
-<p>预约一次免费的场景诊断，让麦朴 FDE 团队帮你找出团队里最适合先落地的 AI 场景。</p>
+<p>预约一次免费的场景诊断，让麦朴科技 FDE 团队帮你找出团队里最适合先落地的 AI 场景。</p>
 <a href="tel:18926108189" class="btn btn-p">预约诊断 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
 </div>
 </aside>

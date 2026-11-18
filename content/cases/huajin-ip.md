@@ -1,8 +1,8 @@
 ---
-title: "知识产权行业 AI 落地案例：借助 AI 实现业务流程提效 - 麦朴"
+title: "知识产权行业 AI 落地案例：借助 AI 实现业务流程提效 - 麦朴科技"
 description: "以知识问答Agent与文档生成Agent定制切入专利商标服务，文档处理提效70%，从海量专业文档处理到专业问答，把资深人员时间还给高价值判断，知识产权行业AI落地标杆案例。
 "
-keywords: "AI落地,企业AI,Agent定制,AI提效,华进联合AI,知识产权AI,知识问答Agent,麦朴"
+keywords: "AI落地,企业AI,Agent定制,AI提效,华进联合AI,知识产权AI,知识问答Agent,麦朴科技"
 nav: "cases"
 date: 2026-11-18
 draft: false
@@ -378,7 +378,7 @@ background-size:48px 48px;pointer-events:none;
 <span class="ind">知识产权 · 专业服务</span>
 </div>
 <h1 class="reveal reveal-d1">知识产权的 AI 提效：让文档与专业问答都快起来</h1>
-<p class="lead reveal reveal-d2">国内知名知识产权服务机构 × 麦朴：以知识问答 Agent 与文档生成 Agent 切入专利商标服务，从海量专业文档处理到专业问答，把资深人员的时间还给高价值判断。</p>
+<p class="lead reveal reveal-d2">国内知名知识产权服务机构 × 麦朴科技：以知识问答 Agent 与文档生成 Agent 切入专利商标服务，从海量专业文档处理到专业问答，把资深人员的时间还给高价值判断。</p>
 <div class="case-meta reveal reveal-d3">
 <span class="item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>2026 年 7 月发布</span>
 <span class="divider"></span>
@@ -465,7 +465,7 @@ background-size:48px 48px;pointer-events:none;
 <h2>解决方案：问答 · 生成 · 检索智能体</h2>
 </div>
 </div>
-<p>麦朴以「建·用·学·管」闭环切入，把知识产权服务的三座大山交给智能体：</p>
+<p>麦朴科技以「建·用·学·管」闭环切入，把知识产权服务的三座大山交给智能体：</p>
 <div class="sol-grid">
 <div class="sol">
 <div class="step"><span class="zh">建</span><span class="tag">Build</span></div>
@@ -541,7 +541,7 @@ background-size:48px 48px;pointer-events:none;
 <p>更重要的是组织能力的变化——代理师团队开始<strong>主动</strong>提出新的 AI 场景需求，资深人员从重复劳动中解放，专注高价值的专业判断。</p>
 <div class="case-quote">
 <div class="mark">“</div>
-<p>知识产权这行最值钱的是代理师的判断力。麦朴帮我们把文档和问答这两件最耗时的事交给 AI，资深的人终于能专注在真正需要专业判断的地方了。</p>
+<p>知识产权这行最值钱的是代理师的判断力。麦朴科技帮我们把文档和问答这两件最耗时的事交给 AI，资深的人终于能专注在真正需要专业判断的地方了。</p>
 <div class="src"><strong>国内知名知识产权服务机构 · 专业服务相关负责人</strong></div>
 </div>
 </div>
@@ -569,7 +569,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="side-card side-cta reveal reveal-d3">
 <h4>想要同样的成果？</h4>
-<p>预约一次免费的场景诊断，让麦朴 FDE 团队帮你找出团队里最适合先落地的 AI 场景。</p>
+<p>预约一次免费的场景诊断，让麦朴科技 FDE 团队帮你找出团队里最适合先落地的 AI 场景。</p>
 <a href="tel:18926108189" class="btn btn-p">预约诊断 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
 </div>
 </aside>

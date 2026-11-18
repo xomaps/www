@@ -1,7 +1,7 @@
 ---
-title: "企业AI落地与提效服务商 | AI培训 · 腾讯云代理 | 麦朴"
+title: "企业AI落地与提效服务商 | AI培训 · 腾讯云代理 | 麦朴科技"
 description: "广州麦朴科技有限公司是腾讯云华南殿堂级服务商，提供企业AI培训、AI落地、AI提效、AI转型、Agent定制、Token供应、WorkBuddy培训与腾讯云全栈服务，累计服务超万家企业，覆盖15+行业。"
-keywords: "企业AI,AI落地,AI培训,AI提效,AI转型,Agent定制,Token供应,WorkBuddy培训,腾讯云,麦朴"
+keywords: "企业AI,AI落地,AI培训,AI提效,AI转型,Agent定制,Token供应,WorkBuddy培训,腾讯云,麦朴科技"
 nav: "home"
 date: 2026-11-18
 draft: false
@@ -224,7 +224,7 @@ background:linear-gradient(135deg,rgba(29,78,216,.08),rgba(59,130,246,.04));colo
 .about-services-row .as-card:hover .as-icon{background:linear-gradient(135deg,var(--brand),#3b82f6);color:#fff;transform:rotate(-5deg)}
 .about-services-row .as-title{font-size:13px;font-weight:700;color:var(--ink);letter-spacing:-.01em}
 
-/* ===== 为什么选择麦朴 ===== */
+/* ===== 为什么选择麦朴科技 ===== */
 .why-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
 .why-card{background:var(--bg-card);border:1px solid var(--border-soft);border-radius:var(--radius-lg);padding:30px 26px;
 box-shadow:var(--shadow-xs);transition:transform .45s cubic-bezier(.22,1,.36,1),box-shadow .45s,border-color .45s;position:relative;overflow:hidden}
@@ -392,9 +392,9 @@ section{padding:72px 0}
 <div id="page-loader">
 <div class="loader-bg-blob"></div>
 <div class="loader-inner">
-<div class="loader-logo"><img src="/assets/img/20260815/20260815225408_31001.png" alt="麦朴"></div>
+<div class="loader-logo"><img src="/assets/img/20260815/20260815225408_31001.png" alt="麦朴科技"></div>
 <div class="loader-slogan">企业 AI 能力建设与应用落地服务商</div>
-<div class="loader-brand">麦朴 <span class="em">XOMAPS</span></div>
+<div class="loader-brand">麦朴科技 <span class="em">XOMAPS</span></div>
 <div class="loader-progress"><div class="bar"></div></div>
 <div class="loader-percent"><span class="num">0</span> %</div>
 </div>
@@ -407,9 +407,9 @@ section{padding:72px 0}
 <div class="wrap" style="padding-top:140px;">
 <div class="hero-eyebrow"><span class="dot"></span>企业 AI 能力建设与应用落地服务商 · 腾讯云华南殿堂级服务商</div>
 <h1><span class="line1">让 AI 真正走进</span><span class="line2">企业的业务流程</span></h1>
-<p class="sub">麦朴源自腾讯云计算服务经验，围绕企业 AI 落地提供咨询、培训、工具模型、Agent 定制与内化建设的一体化支持——学·用·建·管，一站式闭环。</p>
+<p class="sub">麦朴科技源自腾讯云计算服务经验，围绕企业 AI 落地提供咨询、培训、工具模型、Agent 定制与内化建设的一体化支持——学·用·建·管，一站式闭环。</p>
 <div class="hero-chips"><span>腾讯云华南殿堂级服务商</span><span>累计服务超万家企业</span><span>覆盖 15+ 行业</span><span>研发人员占比 76%</span></div>
-<div class="hero-cta"><a href="/contact.html#form" class="btn btn-accent btn-lg">联系麦朴</a><a href="/services.html" class="btn btn-ghost btn-lg">查看服务</a></div>
+<div class="hero-cta"><a href="/contact.html#form" class="btn btn-accent btn-lg">联系麦朴科技</a><a href="/services.html" class="btn btn-ghost btn-lg">查看服务</a></div>
 </div>
 </div>
 <div class="hero-slide">
@@ -417,7 +417,7 @@ section{padding:72px 0}
 <div class="wrap" style="padding-top:140px;">
 <div class="hero-eyebrow"><span class="dot"></span>学 · 用 · 建 · 管 —— 企业 AI 落地闭环方法论</div>
 <h1><span class="line1">不只是培训，</span><span class="line2">更是让人把 AI 用起来</span></h1>
-<p class="sub">从高管认知到员工实操，从 Prompt 工程到 Agent 定制，麦朴陪企业完成 AI 落地的每一步。</p>
+<p class="sub">从高管认知到员工实操，从 Prompt 工程到 Agent 定制，麦朴科技陪企业完成 AI 落地的每一步。</p>
 <div class="hero-chips"><span>企业 AI 培训</span><span>WorkBuddy 推广</span><span>Agent 定制</span><span>场景化落地</span></div>
 <div class="hero-cta"><a href="/ai-training.html" class="btn btn-accent btn-lg">了解培训</a><a href="/ai-landing.html" class="btn btn-ghost btn-lg">落地路径</a></div>
 </div>
@@ -464,7 +464,7 @@ section{padding:72px 0}
 <div class="sec-head">
 <div class="sec-eyebrow">SERVICE DIRECTIONS</div>
 <h2 class="sec-title">七大服务方向，<span class="em">覆盖 AI 落地全链路</span></h2>
-<p class="sec-desc">企业所处阶段不同，需要的服务也不同。麦朴的服务可以独立采购，也可以组合为完整的企业 AI 建设项目。</p>
+<p class="sec-desc">企业所处阶段不同，需要的服务也不同。麦朴科技的服务可以独立采购，也可以组合为完整的企业 AI 建设项目。</p>
 </div>
 <div class="svc-carousel-wrap">
 <div class="svc-carousel" id="svcCarousel">
@@ -492,7 +492,7 @@ section{padding:72px 0}
 <section class="bg-soft" id="about">
 <div class="wrap">
 <div class="sec-head" style="margin-bottom:48px">
-<div class="sec-eyebrow"><span class="dot"></span>ABOUT XOMAPS · 关于麦朴</div>
+<div class="sec-eyebrow"><span class="dot"></span>ABOUT XOMAPS · 关于麦朴科技</div>
 <h2 class="sec-title">让 AI 真正走进<span class="em">企业的业务流程</span></h2>
 <p class="sec-desc">企业 AI 能力建设与应用落地服务商 · 腾讯云华南殿堂级服务商</p>
 </div>
@@ -500,7 +500,7 @@ section{padding:72px 0}
 <div class="about-media">
 <span class="img-badge">公司环境</span>
 <div class="img-frame">
-<img src="/assets/img/theme/1617438721109068.jpg" alt="麦朴办公环境">
+<img src="/assets/img/theme/1617438721109068.jpg" alt="麦朴科技办公环境">
 </div>
 <div class="float-stat">
 <div class="fs-item"><div class="fs-num">50<span class="unit">+</span></div><div class="fs-label">企业 AI 落地场景</div></div>
@@ -520,8 +520,8 @@ section{padding:72px 0}
 <div class="ah-item"><div class="ah-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></div><div class="ah-title">15+ 行业</div><div class="ah-desc">覆盖全行业落地实践</div></div>
 </div>
 <div class="about-quote">
-<p>让企业里的每一个人，都能把 AI 真正用起来。AI 的价值不在演示，而在业务闭环——麦朴的使命是帮助企业完成从认知、工具到组织能力的内化。</p>
-<div class="aq-author">— 麦朴 · 企业理念</div>
+<p>让企业里的每一个人，都能把 AI 真正用起来。AI 的价值不在演示，而在业务闭环——麦朴科技的使命是帮助企业完成从认知、工具到组织能力的内化。</p>
+<div class="aq-author">— 麦朴科技 · 企业理念</div>
 </div>
 </div>
 </div>
@@ -536,7 +536,7 @@ section{padding:72px 0}
 
 <section class="bg-gradient">
 <div class="wrap">
-<div class="sec-head"><div class="sec-eyebrow">WHY XOMAPS</div><h2 class="sec-title">既是落地服务商，<span class="em">也是 AI 落地亲历者</span></h2><p class="sec-desc">麦朴不止于做演示——从咨询到应用的一体化能力，让 AI 真正落进业务流程。</p></div>
+<div class="sec-head"><div class="sec-eyebrow">WHY XOMAPS</div><h2 class="sec-title">既是落地服务商，<span class="em">也是 AI 落地亲历者</span></h2><p class="sec-desc">麦朴科技不止于做演示——从咨询到应用的一体化能力，让 AI 真正落进业务流程。</p></div>
 <div class="why-grid">
 <div class="why-card"><div class="why-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg></div><h4>一体化能力</h4><p>同时具备咨询、培训、工具、模型、知识库和 Agent 服务能力，减少多个供应商之间的沟通与割裂。</p></div>
 <div class="why-card"><div class="why-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg></div><h4>业务起点</h4><p>更关注员工每天在做什么、哪些环节最耗时间，而不是先从某个模型或工具出发设计项目。</p></div>
@@ -549,7 +549,7 @@ section{padding:72px 0}
 <section>
 <div class="wrap">
 <div class="method-wrap">
-<div class="method-head"><div class="sec-eyebrow">METHODOLOGY</div><h2 class="sec-title">学·用·建·管，<span class="em">让 AI 真正闭环</span></h2><p class="sec-desc">麦朴的四个坚持，不是口号，而是企业 AI 落地中真正遵循的工作方式——从方向到人，从工具到价值。</p></div>
+<div class="method-head"><div class="sec-eyebrow">METHODOLOGY</div><h2 class="sec-title">学·用·建·管，<span class="em">让 AI 真正闭环</span></h2><p class="sec-desc">麦朴科技的四个坚持，不是口号，而是企业 AI 落地中真正遵循的工作方式——从方向到人，从工具到价值。</p></div>
 <div class="method-grid">
 <div class="method-step"><div class="ms-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg></div><div class="ms-label">STEP 01 · 学</div><h4>以咨询定方向</h4><p>先识别 AI 机会、梳理场景、设计路径，让企业在投入之前看清方向，避免盲目采购和零散试用。</p></div>
 <div class="method-step"><div class="ms-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 7h7v7M21 7l-9 9-3-3-5 5"/></svg></div><div class="ms-label">STEP 02 · 用</div><h4>以实操培育人</h4><p>通过真实任务训练，让员工不仅「听懂 AI」，更能在岗位中用起来，把方法变成可复用的能力。</p></div>
@@ -562,7 +562,7 @@ section{padding:72px 0}
 
 <section class="bg-soft">
 <div class="wrap">
-<div class="sec-head"><div class="sec-eyebrow">KEY FIGURES</div><h2 class="sec-title">用数字说明，<span class="em">麦朴是谁</span></h2><p class="sec-desc">从团队规模到服务覆盖，每一个数字背后都是真实的企业 AI 落地实践。</p></div>
+<div class="sec-head"><div class="sec-eyebrow">KEY FIGURES</div><h2 class="sec-title">用数字说明，<span class="em">麦朴科技是谁</span></h2><p class="sec-desc">从团队规模到服务覆盖，每一个数字背后都是真实的企业 AI 落地实践。</p></div>
 <div class="stats-grid">
 <div class="stat-card"><div class="stat-num"><span class="accent">10000</span><span class="unit">+</span></div><div class="stat-label">累计服务企业客户</div></div>
 <div class="stat-card"><div class="stat-num"><span class="accent">15</span><span class="unit">+</span></div><div class="stat-label">覆盖行业领域</div></div>
@@ -581,7 +581,7 @@ section{padding:72px 0}
 <div class="clients-head sec-head">
 <div class="sec-eyebrow"><span class="dot"></span>TRUSTED BY · 合作客户</div>
 <h2 class="sec-title">15+ 行业头部企业的<span class="em">共同选择</span></h2>
-<p class="sec-sub">从新能源汽车到金融科技，麦朴的合作实践覆盖 15+ 行业。</p>
+<p class="sec-sub">从新能源汽车到金融科技，麦朴科技的合作实践覆盖 15+ 行业。</p>
 </div>
 </div>
 <div class="clients-marquee-wrap">
@@ -625,7 +625,7 @@ section{padding:72px 0}
 <section>
 <div class="wrap">
 <div class="news-head-row">
-<div class="sec-head"><div class="sec-eyebrow">NEWS CENTER</div><h2 class="sec-title">新闻中心</h2><p class="sec-desc">麦朴动态、行业洞察与企业 AI 实践分享。</p></div>
+<div class="sec-head"><div class="sec-eyebrow">NEWS CENTER</div><h2 class="sec-title">新闻中心</h2><p class="sec-desc">麦朴科技动态、行业洞察与企业 AI 实践分享。</p></div>
 <a href="/news/" class="btn btn-ghost" style="margin-bottom:8px;">查看更多</a>
 </div>
 <!-- ========== CMS 新闻列表循环开始 ========== -->
@@ -644,7 +644,7 @@ section{padding:72px 0}
 <a href="/news-kelabo-token.html">
 <div class="news-thumb"><img src="/assets/img/article/20260804/20260804150518_947081.jpg" alt="新闻配图"></div>
 <div class="news-body">‘
-<div class="news-meta"><span class="news-cat">公司动态</span><span>2017-08-22</span></div><h4>麦朴为克拉波互娱提供大模型Token聚合服务，AI调用成本降低42%</h4><p>近日，广州麦朴科技有限公司宣布，其为国内新锐游戏研发厂商——克拉波互娱游戏提供的大模型Token ...</p>
+<div class="news-meta"><span class="news-cat">公司动态</span><span>2017-08-22</span></div><h4>麦朴科技为克拉波互娱提供大模型Token聚合服务，AI调用成本降低42%</h4><p>近日，广州麦朴科技有限公司宣布，其为国内新锐游戏研发厂商——克拉波互娱游戏提供的大模型Token ...</p>
 <a href="/news-kelabo-token.html" class="news-more">阅读全文<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
 </div>
 </a>
@@ -652,7 +652,7 @@ section{padding:72px 0}
 <a href="/news-jinyi-agent.html">
 <div class="news-thumb"><img src="/assets/img/article/20260804/20260804150624_012056.png" alt="新闻配图"></div>
 <div class="news-body">‘
-<div class="news-meta"><span class="news-cat">公司动态</span><span>2017-08-16</span></div><h4>麦朴为广东金亿防护定制企业级AI Agent，售前接待响应时效缩短70%</h4><p>近日，广州麦朴科技有限公司宣布，其为华南安全防护用品领军企业——广东金亿防护定制的企业级AI智能 ...</p>
+<div class="news-meta"><span class="news-cat">公司动态</span><span>2017-08-16</span></div><h4>麦朴科技为广东金亿防护定制企业级AI Agent，售前接待响应时效缩短70%</h4><p>近日，广州麦朴科技有限公司宣布，其为华南安全防护用品领军企业——广东金亿防护定制的企业级AI智能 ...</p>
 <a href="/news-jinyi-agent.html" class="news-more">阅读全文<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
 </div>
 </a>
@@ -660,7 +660,7 @@ section{padding:72px 0}
 <a href="/news-banana-climbing.html">
 <div class="news-thumb"><img src="/assets/img/article/20260804/20260804150717_627442.jpg" alt="新闻配图"></div>
 <div class="news-body">‘
-<div class="news-meta"><span class="news-cat">公司动态</span><span>2017-08-16</span></div><h4>麦朴携手香蕉攀岩，AI运营工具与培训陪跑助力连锁品牌效率提升210%</h4><p>近日，广州麦朴科技有限公司宣布，其为国内攀岩连锁场馆TOP品牌——香蕉攀岩提供的AI运营工具与培 ...</p>
+<div class="news-meta"><span class="news-cat">公司动态</span><span>2017-08-16</span></div><h4>麦朴科技携手香蕉攀岩，AI运营工具与培训陪跑助力连锁品牌效率提升210%</h4><p>近日，广州麦朴科技有限公司宣布，其为国内攀岩连锁场馆TOP品牌——香蕉攀岩提供的AI运营工具与培 ...</p>
 <a href="/news-banana-climbing.html" class="news-more">阅读全文<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
 </div>
 </a>
@@ -672,7 +672,7 @@ section{padding:72px 0}
 <div class="x_w">
 <div class="t_p"><a href="/news-kelabo-token.html"><img src="/assets/img/article/20260804/20260804150518_947081.jpg"></a></div>
 <div class="w_z">
-<h3><a href="/news-kelabo-token.html">麦朴为克拉波互娱提供大模型Token聚合服务，AI调用成本降低42%</a></h3>
+<h3><a href="/news-kelabo-token.html">麦朴科技为克拉波互娱提供大模型Token聚合服务，AI调用成本降低42%</a></h3>
 <p>近日，广州麦朴科技有限公司宣布，其为国内新锐游戏研发厂商——克拉波互娱游戏提供的大模型Token ...</p>
 <div class="more"><a href="/news-kelabo-token.html">查看详情</a></div>
 <div class="x_x"><i class="fa fa-clock-o"></i>2017-08-22</div>
@@ -682,7 +682,7 @@ section{padding:72px 0}
 <div class="x_w">
 <div class="t_p"><a href="/news-jinyi-agent.html"><img src="/assets/img/article/20260804/20260804150624_012056.png"></a></div>
 <div class="w_z">
-<h3><a href="/news-jinyi-agent.html">麦朴为广东金亿防护定制企业级AI Agent，售前接待响应时效缩短70%</a></h3>
+<h3><a href="/news-jinyi-agent.html">麦朴科技为广东金亿防护定制企业级AI Agent，售前接待响应时效缩短70%</a></h3>
 <p>近日，广州麦朴科技有限公司宣布，其为华南安全防护用品领军企业——广东金亿防护定制的企业级AI智能 ...</p>
 <div class="more"><a href="/news-jinyi-agent.html">查看详情</a></div>
 <div class="x_x"><i class="fa fa-clock-o"></i>2017-08-16</div>
@@ -692,7 +692,7 @@ section{padding:72px 0}
 <div class="x_w">
 <div class="t_p"><a href="/news-banana-climbing.html"><img src="/assets/img/article/20260804/20260804150717_627442.jpg"></a></div>
 <div class="w_z">
-<h3><a href="/news-banana-climbing.html">麦朴携手香蕉攀岩，AI运营工具与培训陪跑助力连锁品牌效率提升210%</a></h3>
+<h3><a href="/news-banana-climbing.html">麦朴科技携手香蕉攀岩，AI运营工具与培训陪跑助力连锁品牌效率提升210%</a></h3>
 <p>近日，广州麦朴科技有限公司宣布，其为国内攀岩连锁场馆TOP品牌——香蕉攀岩提供的AI运营工具与培 ...</p>
 <div class="more"><a href="/news-banana-climbing.html">查看详情</a></div>
 <div class="x_x"><i class="fa fa-clock-o"></i>2017-08-16</div>
@@ -710,7 +710,7 @@ section{padding:72px 0}
 
 <section class="bg-soft">
 <div class="wrap">
-<div class="sec-head"><div class="sec-eyebrow">INDUSTRY COVERAGE</div><h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2><p class="sec-desc">麦朴的合作实践覆盖企业 AI 咨询、能力培养、工具导入和业务场景应用建设，客户来自制造业、服务业与科技专业服务三大板块。</p></div>
+<div class="sec-head"><div class="sec-eyebrow">INDUSTRY COVERAGE</div><h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2><p class="sec-desc">麦朴科技的合作实践覆盖企业 AI 咨询、能力培养、工具导入和业务场景应用建设，客户来自制造业、服务业与科技专业服务三大板块。</p></div>
 <div class="industry-cloud">
 <span class="hot">新能源汽车</span><span class="hot">智慧出行</span><span class="hot">装备制造</span><span class="hot">半导体芯片</span>
 <span>邮政物流</span><span>建材陶瓷</span><span>知识产权</span><span>金融科技</span>

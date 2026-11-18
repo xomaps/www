@@ -1,7 +1,7 @@
 ---
-title: "企业AI提效服务 | 学用建管一站式闭环 - 麦朴"
-description: "麦朴AI提效服务以"
-keywords: "AI提效,企业AI,AI培训,Token供应,Agent定制,腾讯云,AI落地,麦朴"
+title: "企业AI提效服务 | 学用建管一站式闭环 - 麦朴科技"
+description: "麦朴科技AI提效服务以"
+keywords: "AI提效,企业AI,AI培训,Token供应,Agent定制,腾讯云,AI落地,麦朴科技"
 nav: "services"
 date: 2026-11-18
 draft: false
@@ -608,7 +608,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <div class="sec-head">
 <div class="sec-eyebrow">EFFICIENCY OUTCOMES</div>
 <h2 class="sec-title">不止方法论，<span class="em">更有跑通的真实成果</span></h2>
-<p class="sec-desc">麦朴累计服务超万家企业客户，覆盖 15+ 行业，让 AI 真正为企业提效。</p>
+<p class="sec-desc">麦朴科技累计服务超万家企业客户，覆盖 15+ 行业，让 AI 真正为企业提效。</p>
 </div>
 
 <div class="stats-grid">
@@ -646,7 +646,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <div class="sec-head">
 <div class="sec-eyebrow">CUSTOMER CASES</div>
 <h2 class="sec-title">真实客户实践，<span class="em">验证 AI 可提效</span></h2>
-<p class="sec-desc">不同行业、不同岗位的提效场景不同，麦朴按「先诊断、后定制」的方式设计组合方案。</p>
+<p class="sec-desc">不同行业、不同岗位的提效场景不同，麦朴科技按「先诊断、后定制」的方式设计组合方案。</p>
 </div>
 
 <div class="case-grid">
@@ -685,13 +685,13 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 </div>
 </section>
 
-<!-- ══════════ 8. 为什么选麦朴 ══════════ -->
+<!-- ══════════ 8. 为什么选麦朴科技 ══════════ -->
 <section id="why" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">WHY XOMAPS</div>
-<h2 class="sec-title">市面只擅长一环，<span class="em">麦朴一站承接四环</span></h2>
-<p class="sec-desc">培训公司不懂用量成本，云厂商不做场景落地。麦朴把学、用、建、管串成一条服务链，一个服务商即可全部承接。</p>
+<h2 class="sec-title">市面只擅长一环，<span class="em">麦朴科技一站承接四环</span></h2>
+<p class="sec-desc">培训公司不懂用量成本，云厂商不做场景落地。麦朴科技把学、用、建、管串成一条服务链，一个服务商即可全部承接。</p>
 </div>
 
 <div class="why-grid">
@@ -725,7 +725,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <div class="sec-head">
 <div class="sec-eyebrow">INDUSTRY COVERAGE</div>
 <h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2>
-<p class="sec-desc">麦朴的 AI 提效服务覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
+<p class="sec-desc">麦朴科技的 AI 提效服务覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
 </div>
 
 <div class="industry-cloud">
@@ -802,7 +802,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 
 <div class="faq-list">
 <details class="faq-item" open>
-<summary class="faq-q">麦朴的服务适合哪些企业？</summary>
+<summary class="faq-q">麦朴科技的服务适合哪些企业？</summary>
 <div class="faq-a">
 适合希望把 AI 真正用进业务的企业：既包括刚接触 AI、需要全员普及的<strong>成长型企业</strong>，也包括已有 AI 应用、需要深化场景与降本的<strong>成熟企业</strong>。
 </div>
@@ -832,7 +832,7 @@ WorkBuddy 采购 50 席以上，赠送 <strong>2000 元模型用量兑换券</st
 <details class="faq-item">
 <summary class="faq-q">与市面上 AI 课程有什么区别？</summary>
 <div class="faq-a">
-市面课程多停留在「教工具」；麦朴提供的是<strong>培训 + 用量 + 定制 + 咨询</strong>的完整闭环，课程内容与企业业务场景结合，并有 FDE 驻场与成本服务做支撑，学完能落地、落地有结果。
+市面课程多停留在「教工具」；麦朴科技提供的是<strong>培训 + 用量 + 定制 + 咨询</strong>的完整闭环，课程内容与企业业务场景结合，并有 FDE 驻场与成本服务做支撑，学完能落地、落地有结果。
 </div>
 </details>
 </div>

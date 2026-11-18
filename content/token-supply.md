@@ -1,8 +1,8 @@
 ---
-title: "企业AI Token供应与成本优化 - 麦朴"
-description: "麦朴Token供应服务：提供GPT、Gemini等主流大模型Token供应+成本优化+用量管理，模型用量约官网45折，WorkBuddy培训50席以上赠2000元兑换券，让企业AI成本可控、用量可视。
+title: "企业AI Token供应与成本优化 - 麦朴科技"
+description: "麦朴科技Token供应服务：提供GPT、Gemini等主流大模型Token供应+成本优化+用量管理，模型用量约官网45折，WorkBuddy培训50席以上赠2000元兑换券，让企业AI成本可控、用量可视。
 "
-keywords: "Token供应,企业AI,WorkBuddy培训,AI提效,AI模型成本优化,GPT Token,模型用量,麦朴"
+keywords: "Token供应,企业AI,WorkBuddy培训,AI提效,AI模型成本优化,GPT Token,模型用量,麦朴科技"
 nav: "services"
 date: 2026-11-18
 draft: false
@@ -169,7 +169,7 @@ section{padding:72px 0}
 .stat-num .unit{font-size:18px;color:var(--text-2);font-weight:600;margin-left:2px}
 .stat-label{font-size:13px;color:var(--text-2);font-weight:500}
 
-/* ───────── 为什么选麦朴 ───────── */
+/* ───────── 为什么选麦朴科技 ───────── */
 .why-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
 .why-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius-lg);padding:28px 22px;text-align:center;transition:all .2s}
 .why-card:hover{border-color:var(--brand);box-shadow:var(--shadow)}
@@ -554,7 +554,7 @@ mix-blend-mode:multiply;
 <div class="sec-head">
 <div class="sec-eyebrow">SUPPORTED MODELS</div>
 <h2 class="sec-title">主流模型统一接入，<span class="em">按需选择与切换</span></h2>
-<p class="sec-desc">不同任务适合不同模型——麦朴可结合业务场景给出选型建议，避免「一律用最贵」。</p>
+<p class="sec-desc">不同任务适合不同模型——麦朴科技可结合业务场景给出选型建议，避免「一律用最贵」。</p>
 </div>
 
 <div class="model-grid">
@@ -688,7 +688,7 @@ mix-blend-mode:multiply;
 <div class="sec-head">
 <div class="sec-eyebrow">SERVICE OUTCOMES</div>
 <h2 class="sec-title">不止供应，<span class="em">更有跑通的真实成果</span></h2>
-<p class="sec-desc">麦朴累计服务超万家企业客户，覆盖 15+ 行业，让企业 AI 用量成本可控、用量可视。</p>
+<p class="sec-desc">麦朴科技累计服务超万家企业客户，覆盖 15+ 行业，让企业 AI 用量成本可控、用量可视。</p>
 </div>
 
 <div class="stats-grid">
@@ -720,13 +720,13 @@ mix-blend-mode:multiply;
 </div>
 </section>
 
-<!-- ══════════ 8. 为什么选麦朴 ══════════ -->
+<!-- ══════════ 8. 为什么选麦朴科技 ══════════ -->
 <section id="why">
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">WHY XOMAPS</div>
 <h2 class="sec-title">既是供应商，<span class="em">也是 AI 落地亲历者</span></h2>
-<p class="sec-desc">麦朴不止于卖用量——价格优势、模型全面、企业服务、省心管理，让 AI 成本真正可控。</p>
+<p class="sec-desc">麦朴科技不止于卖用量——价格优势、模型全面、企业服务、省心管理，让 AI 成本真正可控。</p>
 </div>
 
 <div class="why-grid">
@@ -768,7 +768,7 @@ mix-blend-mode:multiply;
 <div class="sec-head">
 <div class="sec-eyebrow">INDUSTRY COVERAGE</div>
 <h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2>
-<p class="sec-desc">麦朴的模型用量与 AI 服务实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
+<p class="sec-desc">麦朴科技的模型用量与 AI 服务实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
 </div>
 
 <div class="industry-cloud">

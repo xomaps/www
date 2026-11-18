@@ -1,7 +1,7 @@
 ---
-title: "企业AI产品服务中心 | 七大产品一站式落地 - 麦朴"
-description: "麦朴七大产品：AI提效、AI落地、AI转型培训、Agent定制、Token供应、WorkBuddy培训、腾讯云服务，每项可独立或组合采购，让企业AI从工具到能力一站式落地，腾讯云华南殿堂级服务商。"
-keywords: "企业AI,AI提效,AI落地,AI转型,Agent定制,Token供应,WorkBuddy培训,腾讯云,麦朴"
+title: "企业AI产品服务中心 | 七大产品一站式落地 - 麦朴科技"
+description: "麦朴科技七大产品：AI提效、AI落地、AI转型培训、Agent定制、Token供应、WorkBuddy培训、腾讯云服务，每项可独立或组合采购，让企业AI从工具到能力一站式落地，腾讯云华南殿堂级服务商。"
+keywords: "企业AI,AI提效,AI落地,AI转型,Agent定制,Token供应,WorkBuddy培训,腾讯云,麦朴科技"
 nav: "services"
 date: 2026-11-18
 draft: false
@@ -303,7 +303,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="hero-inner">
 <div class="hero-eyebrow reveal"><span class="line"></span>腾讯云华南殿堂级服务商 · 企业 AI 能力建设落地</div>
 <h1 class="reveal reveal-d1">七大产品，<br>让 <span class="em">AI 真正落地</span> 为生产力</h1>
-<p class="sub reveal reveal-d2">从基础设施到战略咨询，从工具供给到人才赋能——麦朴的产品体系覆盖企业 AI 全生命周期，独立或组合采购，按需匹配。</p>
+<p class="sub reveal reveal-d2">从基础设施到战略咨询，从工具供给到人才赋能——麦朴科技的产品体系覆盖企业 AI 全生命周期，独立或组合采购，按需匹配。</p>
 <div class="hero-metrics reveal reveal-d3">
 <div class="hero-metric">
 <div class="num">7<span class="unit">款产品</span></div>
@@ -632,7 +632,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="clients-head reveal sec-head">
 <div class="sec-eyebrow"><span class="dot"></span>TRUSTED BY · 合作客户</div>
 <h2 class="sec-title">15+ 行业头部企业的<span class="em">共同选择</span></h2>
-<p class="sec-sub">从新能源汽车到金融科技，麦朴的合作实践覆盖 15+ 行业。</p>
+<p class="sec-sub">从新能源汽车到金融科技，麦朴科技的合作实践覆盖 15+ 行业。</p>
 </div>
 </div>
 <div class="clients-marquee-wrap reveal reveal-d1">
@@ -680,7 +680,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="cta-inner">
 <div class="cta-text">
 <h2>不确定哪款产品适合？<br>让我们为您诊断匹配</h2>
-<p>无论您处在 AI 落地的哪个阶段，麦朴都能提供对应的产品组合。一次咨询，帮您厘清路径、估算投入、明确回报。</p>
+<p>无论您处在 AI 落地的哪个阶段，麦朴科技都能提供对应的产品组合。一次咨询，帮您厘清路径、估算投入、明确回报。</p>
 <div class="cta-actions">
 <a href="tel:18926108189" class="btn btn-accent">立即拨打商务电话 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.36 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.34 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg></a>
 </div>

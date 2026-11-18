@@ -1,7 +1,7 @@
 ---
-title: "企业AI落地案例 | 15+行业头部企业验证 - 麦朴"
-description: "麦朴AI 落地案例库：覆盖新能源汽车、出行服务、支付金融、装备制造、半导体、建材、企业 SaaS、区域物流等 15 + 行业头部企业智能化项目。可查看智能 Agent 定制、AI 能力培训真实落地场景、配套解决方案与项目成果数据。"
-keywords: "AI落地,企业AI,Agent定制,AI培训,麦朴"
+title: "企业AI落地案例 | 15+行业头部企业验证 - 麦朴科技"
+description: "麦朴科技AI 落地案例库：覆盖新能源汽车、出行服务、支付金融、装备制造、半导体、建材、企业 SaaS、区域物流等 15 + 行业头部企业智能化项目。可查看智能 Agent 定制、AI 能力培训真实落地场景、配套解决方案与项目成果数据。"
+keywords: "AI落地,企业AI,Agent定制,AI培训,麦朴科技"
 nav: "cases"
 date: 2026-11-18
 draft: false
@@ -380,7 +380,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="hero-inner">
 <div class="hero-eyebrow reveal"><span class="line"></span>15+ 行业落地实践 · 真实场景验证</div>
 <h1 class="reveal reveal-d1">每一次落地，<br>都是 <span class="em">AI 变生产力</span> 的真实证明</h1>
-<p class="sub reveal reveal-d2">从新能源汽车到金融科技，从半导体到建材制造——麦朴的服务已在 15+ 行业的头部企业中跑通闭环。不讲概念，只看结果。</p>
+<p class="sub reveal reveal-d2">从新能源汽车到金融科技，从半导体到建材制造——麦朴科技的服务已在 15+ 行业的头部企业中跑通闭环。不讲概念，只看结果。</p>
 <div class="hero-metrics reveal reveal-d3">
 <div class="hero-metric">
 <div class="num">15<span class="unit">+ 行业</span></div>
@@ -409,7 +409,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="sec-head reveal">
 <div class="sec-eyebrow"><span class="dot"></span>FEATURED CASE · 精选案例</div>
 <h2 class="sec-title">标杆实践：<span class="em">国内知名汽车企业</span> × AI 提效</h2>
-<p class="sec-sub">新能源汽车领军企业如何通过麦朴的「学·用·建·管」闭环，实现团队 AI 能力的系统性跃升。</p>
+<p class="sec-sub">新能源汽车领军企业如何通过麦朴科技的「学·用·建·管」闭环，实现团队 AI 能力的系统性跃升。</p>
 </div>
 <div class="featured-card reveal reveal-d1">
 <!-- 精选案例跳转链接：替换 href 即可指向详情页/外部URL -->
@@ -426,7 +426,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="featured-body">
 <div class="featured-tag">AI 提效 · 综合服务</div>
 <h3>从「不会用 AI」到「全员 AI 提效」的组织升级</h3>
-<p class="challenge">国内知名汽车企业作为新能源汽车头部企业，研发与业务团队规模庞大，但 AI 工具的使用率低、场景分散、成本不可控。麦朴以「学·用·建·管」一站式闭环切入，从培训赋能到 Agent 定制，系统性提升全员 AI 生产力。</p>
+<p class="challenge">国内知名汽车企业作为新能源汽车头部企业，研发与业务团队规模庞大，但 AI 工具的使用率低、场景分散、成本不可控。麦朴科技以「学·用·建·管」一站式闭环切入，从培训赋能到 Agent 定制，系统性提升全员 AI 生产力。</p>
 <div class="featured-solutions">
 <span class="sol">WorkBuddy 培训</span>
 <span class="sol">Token 供应</span>
@@ -747,7 +747,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="impact-head reveal sec-head">
 <div class="sec-eyebrow"><span class="dot"></span>IMPACT · 成果数据</div>
 <h2 class="sec-title">数字背后，是<span class="em">真实的生产力</span></h2>
-<p class="sec-sub">聚合所有客户案例的关键指标，麦朴的服务交付带来的可量化价值。</p>
+<p class="sec-sub">聚合所有客户案例的关键指标，麦朴科技的服务交付带来的可量化价值。</p>
 </div>
 <div class="impact-grid">
 <div class="impact-item reveal">
@@ -776,7 +776,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="clients-head reveal sec-head">
 <div class="sec-eyebrow"><span class="dot"></span>TRUSTED BY · 合作客户</div>
 <h2 class="sec-title">15+ 行业头部企业的<span class="em">共同选择</span></h2>
-<p class="sec-sub">从新能源汽车到金融科技，麦朴的合作实践覆盖 15+ 行业。</p>
+<p class="sec-sub">从新能源汽车到金融科技，麦朴科技的合作实践覆盖 15+ 行业。</p>
 </div>
 </div>
 <div class="clients-marquee-wrap reveal reveal-d1">

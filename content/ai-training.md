@@ -1,7 +1,7 @@
 ---
-title: "企业AI转型培训 | 从知道AI到会用AI  - 麦朴"
-description: "麦朴AI转型培训服务：线上培训+线下七大模块+诊断式定制训练营+课后陪跑，涵盖AI通识、AI思维、AI Cost Optimization、Vibe Coding等课程，分层培训、场景实操，让团队从知道AI到会用AI解决问题。"
-keywords: "AI转型,AI培训,企业AI,WorkBuddy培训,Token供应,AI提效,企业AI能力建设,麦朴"
+title: "企业AI转型培训 | 从知道AI到会用AI  - 麦朴科技"
+description: "麦朴科技AI转型培训服务：线上培训+线下七大模块+诊断式定制训练营+课后陪跑，涵盖AI通识、AI思维、AI Cost Optimization、Vibe Coding等课程，分层培训、场景实操，让团队从知道AI到会用AI解决问题。"
+keywords: "AI转型,AI培训,企业AI,WorkBuddy培训,Token供应,AI提效,企业AI能力建设,麦朴科技"
 nav: "services"
 date: 2026-11-18
 draft: false
@@ -565,7 +565,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="sec-head">
 <div class="sec-eyebrow">TRAINING OUTCOMES</div>
 <h2 class="sec-title">不止方法论，<span class="em">更有跑通的真实成果</span></h2>
-<p class="sec-desc">麦朴累计服务超万家企业客户，覆盖 15+ 行业，让团队真正完成 AI 转型。</p>
+<p class="sec-desc">麦朴科技累计服务超万家企业客户，覆盖 15+ 行业，让团队真正完成 AI 转型。</p>
 </div>
 
 <div class="stats-grid">
@@ -603,7 +603,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="sec-head">
 <div class="sec-eyebrow">CUSTOMER CASES</div>
 <h2 class="sec-title">真实客户实践，<span class="em">验证培训可落地</span></h2>
-<p class="sec-desc">不同行业、不同岗位的培训重点不同，麦朴按「先诊断、后定制」的方式设计课程。</p>
+<p class="sec-desc">不同行业、不同岗位的培训重点不同，麦朴科技按「先诊断、后定制」的方式设计课程。</p>
 </div>
 
 <div class="case-grid">
@@ -642,7 +642,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 </div>
 </section>
 
-<!-- ══════════ 8. 为什么选麦朴 ══════════ -->
+<!-- ══════════ 8. 为什么选麦朴科技 ══════════ -->
 <section id="why" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
@@ -682,7 +682,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="sec-head">
 <div class="sec-eyebrow">INDUSTRY COVERAGE</div>
 <h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2>
-<p class="sec-desc">麦朴的 AI 培训实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
+<p class="sec-desc">麦朴科技的 AI 培训实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
 </div>
 
 <div class="industry-cloud">
@@ -789,7 +789,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <details class="faq-item">
 <summary class="faq-q">与市面上 AI 课程有什么区别？</summary>
 <div class="faq-a">
-市面课程多停留在「教工具」；麦朴提供的是<strong>分层培训 + 场景实操 + 课后陪跑</strong>的完整体系，课程内容与业务场景结合，并有 FDE 与咨询团队做落地支撑。
+市面课程多停留在「教工具」；麦朴科技提供的是<strong>分层培训 + 场景实操 + 课后陪跑</strong>的完整体系，课程内容与业务场景结合，并有 FDE 与咨询团队做落地支撑。
 </div>
 </details>
 </div>

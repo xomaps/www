@@ -1,8 +1,8 @@
 ---
-title: "WorkBuddy企业AI培训 | 让全员会用AI - 麦朴"
-description: "麦朴WorkBuddy培训服务：线上WorkBuddy使用培训+线下七大模块+诊断式定制训练营+课后陪跑，50席起购，分层培训、场景实操，让团队从知道AI到会用AI解决实际业务问题，Token供应配套支持。
+title: "WorkBuddy企业AI培训 | 让全员会用AI - 麦朴科技"
+description: "麦朴科技WorkBuddy培训服务：线上WorkBuddy使用培训+线下七大模块+诊断式定制训练营+课后陪跑，50席起购，分层培训、场景实操，让团队从知道AI到会用AI解决实际业务问题，Token供应配套支持。
 "
-keywords: "WorkBuddy培训,AI培训,企业AI,AI转型,Token供应,WorkBuddy 50席,企业AI能力培训,麦朴"
+keywords: "WorkBuddy培训,AI培训,企业AI,AI转型,Token供应,WorkBuddy 50席,企业AI能力培训,麦朴科技"
 nav: "services"
 date: 2026-11-18
 draft: false
@@ -181,7 +181,7 @@ section{padding:72px 0}
 .case-metric .l{font-size:12px;color:var(--text-2);line-height:1.5}
 .case-card p{font-size:13.5px;color:var(--text-2);line-height:1.7}
 
-/* ───────── 为什么选麦朴：极简四卡 ───────── */
+/* ───────── 为什么选麦朴科技：极简四卡 ───────── */
 .why-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
 .why-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius-lg);padding:28px 22px;text-align:center;transition:all .2s}
 .why-card:hover{border-color:var(--brand);box-shadow:var(--shadow)}
@@ -654,7 +654,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <div class="sec-head">
 <div class="sec-eyebrow">TRAINING OUTCOMES</div>
 <h2 class="sec-title">不止方法论，<span class="em">更有跑通的真实成果</span></h2>
-<p class="sec-desc">麦朴累计服务超万家企业客户，覆盖 15+ 行业，让培训成果真正落进业务。</p>
+<p class="sec-desc">麦朴科技累计服务超万家企业客户，覆盖 15+ 行业，让培训成果真正落进业务。</p>
 </div>
 
 <div class="stats-grid">
@@ -692,7 +692,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <div class="sec-head">
 <div class="sec-eyebrow">CUSTOMER CASES</div>
 <h2 class="sec-title">真实客户实践，<span class="em">验证培训可落地</span></h2>
-<p class="sec-desc">不同行业、不同岗位的培训重点不同，麦朴按「先诊断、后定制」的方式设计课程。</p>
+<p class="sec-desc">不同行业、不同岗位的培训重点不同，麦朴科技按「先诊断、后定制」的方式设计课程。</p>
 </div>
 
 <div class="case-grid">
@@ -731,13 +731,13 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 </div>
 </section>
 
-<!-- ══════════ 8. 为什么选麦朴 ══════════ -->
+<!-- ══════════ 8. 为什么选麦朴科技 ══════════ -->
 <section id="why" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">WHY XOMAPS</div>
 <h2 class="sec-title">既是培训服务商，<span class="em">也是 AI 落地亲历者</span></h2>
-<p class="sec-desc">麦朴不止于教工具——业务起点、真实材料、分层培训、课后陪跑，让培训成果真正落进业务。</p>
+<p class="sec-desc">麦朴科技不止于教工具——业务起点、真实材料、分层培训、课后陪跑，让培训成果真正落进业务。</p>
 </div>
 
 <div class="why-grid">
@@ -779,7 +779,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <div class="sec-head">
 <div class="sec-eyebrow">INDUSTRY COVERAGE</div>
 <h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2>
-<p class="sec-desc">麦朴的 AI 培训实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
+<p class="sec-desc">麦朴科技的 AI 培训实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
 </div>
 
 <div class="industry-cloud">
@@ -849,7 +849,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <!--<section id="cta" class="cta-final">
 <div class="wrap">
 <h2>让团队从「知道 AI」到「会用 AI 解决问题」</h2>
-<p>预约麦朴 WorkBuddy 企业 AI 培训咨询，获取诊断式定制方案或标准化课程包报价。</p>
+<p>预约麦朴科技 WorkBuddy 企业 AI 培训咨询，获取诊断式定制方案或标准化课程包报价。</p>
 <div class="hero-cta">
 <a href="tel:18926108189" class="btn btn-accent btn-lg">立即咨询：18926108189</a>
 <a href="#product" class="btn btn-ghost btn-lg">查看培训产品</a>
