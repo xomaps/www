@@ -476,7 +476,8 @@ section,.contact-card,.dir-card,.promise-card,.faq,.step,.addr-card,.map-card{op
 <h3>在线留言</h3>
 <p class="cr-desc">带 <span style="color:var(--accent)">*</span> 为必填项，提交后我们会在 1 个工作日内联系您。</p>
 
-<form id="myform" class="form-horizontal" method="post" action="/ask.html" onsubmit="this.url.value=window.location.href" >
+<form id="myform" class="form-horizontal" onsubmit="handleSubmit(event)">
+<input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:0;height:0;opacity:0">
 <div class="field-row">
 <div class="field">
 <label>姓名 <span class="req">*</span></label>
@@ -484,7 +485,7 @@ section,.contact-card,.dir-card,.promise-card,.faq,.step,.addr-card,.map-card{op
 </div>
 <div class="field">
 <label>企业 <span class="req">*</span></label>
-<input type="text" name="qymc" class="form-control" id="username" placeholder="公司名称，个人填写无" required="required">
+<input type="text" name="company" class="form-control" id="username" placeholder="公司名称，个人填写无" required="required">
 </div>
 </div>
 
@@ -501,7 +502,7 @@ section,.contact-card,.dir-card,.promise-card,.faq,.step,.addr-card,.map-card{op
 
 <div class="field">
 <label>咨询方向 <span class="req">*</span></label>
-<select name="xqfx" required>
+<select name="direction" required>
 <option value="">请选择您感兴趣的服务方向</option>
 <option value="培训">企业 AI 培训</option>
 <option value="模型用量">模型用量与 Token 成本服务</option>
@@ -519,6 +520,7 @@ section,.contact-card,.dir-card,.promise-card,.faq,.step,.addr-card,.map-card{op
 </div>
 
 <button type="submit" class="btn btn-primary btn-block btn-lg">提交留言</button>
+<p id="form-status" style="display:none;font-size:13.5px;margin-top:10px;line-height:1.6"></p>
 <p class="form-note">提交即表示您同意信朴科技与您联系。我们承诺仅用于商务沟通，不会向第三方泄露您的信息。如需即时响应，请直接拨打 <a href="tel:18926108189">18926108189</a>。</p>
 </form>
 </div>
@@ -857,16 +859,37 @@ g.style.setProperty('--my',(e.clientY-r.top)+'px');
 });
 })();
 
-// 表单提交处理（前端演示）
+// 表单提交处理：直发商务群企微机器人（后端 /open/v1/inquiry 免登录公开接口，不落库）
 function handleSubmit(e){
 e.preventDefault();
 var form=e.target;
-var data=new FormData(form);
-var name=data.get('name')||'';
-var phone=data.get('phone')||'';
-var dir=data.get('direction')||'';
-alert('感谢您的留言，'+name+'！\n\n我们已收到您的咨询需求（方向：'+dir+'）。\n信朴科技商务团队会在 1 个工作日内联系您：'+phone+'。\n\n如需即时响应，请直接拨打 18926108189。');
+var status=document.getElementById('form-status');
+var btn=form.querySelector('button[type="submit"]');
+var payload={sourcePage:window.location.href};
+new FormData(form).forEach(function(v,k){ if(k!=='website') payload[k]=String(v).trim(); });
+if(btn)btn.disabled=true;
+if(status)status.style.display='none';
+fetch('https://saas.omaps.cn/open/v1/inquiry',{
+method:'POST',
+headers:{'Content-Type':'application/json'},
+body:JSON.stringify(payload)
+}).then(function(res){
+if(!res.ok)throw new Error('HTTP '+res.status);
 form.reset();
+if(status){
+status.textContent='✓ 留言已送达，信朴科技商务团队会在 1 个工作日内联系您。如需即时响应，请直接拨打 18926108189。';
+status.style.color='#10b981';
+status.style.display='block';
+}
+}).catch(function(){
+if(status){
+status.textContent='提交失败，请稍后重试，或直接拨打 18926108189 联系商务。';
+status.style.color='#ef4444';
+status.style.display='block';
+}
+}).finally(function(){
+if(btn)btn.disabled=false;
+});
 }
 
 // 点击服务方向卡 → 跳转到表单并预选
