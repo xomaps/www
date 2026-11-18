@@ -646,7 +646,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <section id="why" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">WHY XOMAPS</div>
+<div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div>
 <h2 class="sec-title">业务起点 · 真实材料，<span class="em">分层培训 + 课后陪跑</span></h2>
 <p class="sec-desc">培训不止于「听课」——场景实操 + 课后陪跑，让培训成果真正落进业务。</p>
 </div>

@@ -658,7 +658,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <section id="why" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">WHY XOMAPS</div>
+<div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div>
 <h2 class="sec-title">殿堂级资质，<span class="em">华南最大代理商</span></h2>
 <p class="sec-desc">资质、渠道、团队、能力——四个理由一次说清，让企业省心采购、放心上云、安心运维。</p>
 </div>

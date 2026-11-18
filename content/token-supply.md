@@ -724,7 +724,7 @@ mix-blend-mode:multiply;
 <section id="why">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">WHY XOMAPS</div>
+<div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div>
 <h2 class="sec-title">既是供应商，<span class="em">也是 AI 落地亲历者</span></h2>
 <p class="sec-desc">麦朴科技不止于卖用量——价格优势、模型全面、企业服务、省心管理，让 AI 成本真正可控。</p>
 </div>

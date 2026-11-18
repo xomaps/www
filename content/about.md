@@ -573,7 +573,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <section id="why">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">WHY XOMAPS</div>
+<div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div>
 <h2 class="sec-title">既是落地服务商，<span class="em">也是 AI 落地亲历者</span></h2>
 <p class="sec-desc">麦朴科技不止于做演示——从咨询到应用的一体化能力，让 AI 真正落进业务流程。</p>
 </div>

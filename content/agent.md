@@ -661,7 +661,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <section id="why" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">WHY XOMAPS</div>
+<div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div>
 <h2 class="sec-title">业务起点 · 知识喂料，<span class="em">FDE 现场 + 陪跑推广</span></h2>
 <p class="sec-desc">腾讯云华南殿堂级服务商——云与 AI 一体化的落地服务能力，让 Agent 真正在业务里跑起来。</p>
 </div>

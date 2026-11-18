@@ -689,7 +689,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <section id="why" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">WHY XOMAPS</div>
+<div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div>
 <h2 class="sec-title">市面只擅长一环，<span class="em">麦朴科技一站承接四环</span></h2>
 <p class="sec-desc">培训公司不懂用量成本，云厂商不做场景落地。麦朴科技把学、用、建、管串成一条服务链，一个服务商即可全部承接。</p>
 </div>

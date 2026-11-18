@@ -735,7 +735,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <section id="why" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">WHY XOMAPS</div>
+<div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div>
 <h2 class="sec-title">既是培训服务商，<span class="em">也是 AI 落地亲历者</span></h2>
 <p class="sec-desc">麦朴科技不止于教工具——业务起点、真实材料、分层培训、课后陪跑，让培训成果真正落进业务。</p>
 </div>

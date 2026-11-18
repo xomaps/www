@@ -394,7 +394,7 @@ section{padding:72px 0}
 <div class="loader-inner">
 <div class="loader-logo"><img src="/assets/img/20260815/20260815225408_31001.png" alt="麦朴科技"></div>
 <div class="loader-slogan">企业 AI 能力建设与应用落地服务商</div>
-<div class="loader-brand">麦朴科技 <span class="em">XOMAPS</span></div>
+<div class="loader-brand">麦朴科技 <span class="em">XOMAPS<sup>®</sup></span></div>
 <div class="loader-progress"><div class="bar"></div></div>
 <div class="loader-percent"><span class="num">0</span> %</div>
 </div>
@@ -492,7 +492,7 @@ section{padding:72px 0}
 <section class="bg-soft" id="about">
 <div class="wrap">
 <div class="sec-head" style="margin-bottom:48px">
-<div class="sec-eyebrow"><span class="dot"></span>ABOUT XOMAPS · 关于麦朴科技</div>
+<div class="sec-eyebrow"><span class="dot"></span>ABOUT XOMAPS<sup>®</sup> · 关于麦朴科技</div>
 <h2 class="sec-title">让 AI 真正走进<span class="em">企业的业务流程</span></h2>
 <p class="sec-desc">企业 AI 能力建设与应用落地服务商 · 腾讯云华南殿堂级服务商</p>
 </div>
@@ -536,7 +536,7 @@ section{padding:72px 0}
 
 <section class="bg-gradient">
 <div class="wrap">
-<div class="sec-head"><div class="sec-eyebrow">WHY XOMAPS</div><h2 class="sec-title">既是落地服务商，<span class="em">也是 AI 落地亲历者</span></h2><p class="sec-desc">麦朴科技不止于做演示——从咨询到应用的一体化能力，让 AI 真正落进业务流程。</p></div>
+<div class="sec-head"><div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div><h2 class="sec-title">既是落地服务商，<span class="em">也是 AI 落地亲历者</span></h2><p class="sec-desc">麦朴科技不止于做演示——从咨询到应用的一体化能力，让 AI 真正落进业务流程。</p></div>
 <div class="why-grid">
 <div class="why-card"><div class="why-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg></div><h4>一体化能力</h4><p>同时具备咨询、培训、工具、模型、知识库和 Agent 服务能力，减少多个供应商之间的沟通与割裂。</p></div>
 <div class="why-card"><div class="why-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg></div><h4>业务起点</h4><p>更关注员工每天在做什么、哪些环节最耗时间，而不是先从某个模型或工具出发设计项目。</p></div>
